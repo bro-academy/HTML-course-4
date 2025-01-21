@@ -15,6 +15,7 @@
 
 <!-- Lesson 1. Intro -->
 [Lesson 1. Intro](lesson-1-intro.md)  <br />
+
 Lesson 2. HTML
 <!-- [Lesson 2. HTML](lesson-2.md)  <br /> -->
 Lesson 3. GIT
