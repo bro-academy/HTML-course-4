@@ -1,7 +1,7 @@
 # Lesson 1. Intro + Internet and browser 
 
-<!-- **[Presentation](presentations/lesson-1-intro.pdf)**<br /> -->
-<!-- **[Manual](manuals/manual-1.pdf)**<br /> -->
+<!-- **[Presentation](presentations/lesson-1-internet.pdf)**<br /> -->
+<!-- **[Manual](manuals/manual-1-internet.pdf)**<br /> -->
 <!-- **[Video record]()**<br />  -->
 
 # Homework
