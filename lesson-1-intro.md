@@ -1,5 +1,6 @@
 # Lesson 1. Intro + Internet and browser 
 
+**[Presentation](presentations/lesson-1-intro.pdf)**<br />
 <!-- **[Presentation](presentations/lesson-1-internet.pdf)**<br /> -->
 <!-- **[Manual](manuals/manual-1-internet.pdf)**<br /> -->
 <!-- **[Video record]()**<br />  -->
@@ -7,13 +8,13 @@
 # Homework
 
 1. Download [Figma](https://www.figma.com/) and create an account.<br />
-2. Download [VS Code](https://code.visualstudio.com/) and [learn](https://www.codecademy.com/article/visual-studio-code) how to use it.
+<!-- 2. Download [VS Code](https://code.visualstudio.com/) and [learn](https://www.codecademy.com/article/visual-studio-code) how to use it. -->
+2. Create an account on [CodeSandbox](https://codesandbox.io//).
 3. Create a profile on [GitHub](https://github.com/).
 4. Create an account on [CodePen](https://codepen.io/).
 5. Download Git from the official website [Git](https://git-scm.com/) and install it.
 6. Read the additional materials. There is a lot of material, and it can take a long time to read it all. Plus, there is a big list of resources where you can independently search for the information you need.  <br />
 🟢 — must read <br />
-🔵 — can be read after the course <br />
 7. When you are added to Jira, I will create a task for each of you. You will need to track its status from **“To Do”** to **“For Review”**. Only mentors can set the status to **“Done”**. It’s test tasks for try to use Jira. 
 
 # Additional Materials
