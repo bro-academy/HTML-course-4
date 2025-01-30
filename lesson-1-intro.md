@@ -1,9 +1,9 @@
 # Lesson 1. Intro + Internet and browser 
 
 **[Presentation](presentations/lesson-1-intro.pdf)**<br />
-<!-- **[Presentation](presentations/lesson-1-internet.pdf)**<br /> -->
-<!-- **[Manual](manuals/manual-1-internet.pdf)**<br /> -->
-<!-- **[Video record]()**<br />  -->
+**[Presentation](presentations/presentation-1-internet.pdf)**<br />
+**[Manual](manuals/manual-1-internet.pdf)**<br />
+**[Video record Group 1](https://drive.google.com/file/d/1zeW2uqwYl3mwmqhlfnzUbW1SNQFli3_V/view?usp=drive_link)**<br /> 
 
 # Homework
 
