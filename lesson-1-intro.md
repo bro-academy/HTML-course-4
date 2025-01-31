@@ -4,6 +4,7 @@
 **[Presentation](presentations/presentation-1-internet.pdf)**<br />
 **[Manual](manuals/manual-1-internet.pdf)**<br />
 **[Video record Group 1](https://drive.google.com/file/d/1zeW2uqwYl3mwmqhlfnzUbW1SNQFli3_V/view?usp=drive_link)**<br /> 
+**[Video record Group 2](https://drive.google.com/file/d/1LYt_HzHfwYoCbYUUFmDUqvFx94xy5EBD/view?usp=sharing)**<br /> 
 
 # Homework
 
