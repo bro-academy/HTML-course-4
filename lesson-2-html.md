@@ -30,21 +30,21 @@ Name for file - blog-article.html
 
 ## Criteria HTML
 
-❤️ The document must begin with `<!DOCTYPE HTML>`. <br />
+**❤️ The document must begin with `<!DOCTYPE HTML>`.** <br />
 A correct doctype ensures the pages display according to standards.
 
-❤️ Each page must have the lang attribute set according to the page's language.
+**❤️ Each page must have the lang attribute set according to the page's language.**
 
-❤️ The document must have a specified encoding. <br />
+**❤️ The document must have a specified encoding.** <br />
 UTF-8 is universal and compatible; it is the current standard.
 
-❤️ Title Tag must be set on all pages. <br />
+**❤️ Title Tag must be set on all pages.** <br />
 SEO: Google trims titles between 472 to 482 pixels, so the title length should be around 55 characters. <br />
 `<title>` must be unique on each page.
 
-❤️ All elements must be marked up and styled.
+**❤️ All elements must be marked up and styled.**
 
-❤️ No gross markup errors.
+**❤️ No gross markup errors.**
 
   ❌ Gross errors: <br />
 Using tags other than`<a>` for links. <br />
@@ -56,7 +56,7 @@ And so on... <br />
 Absence of semantic tags. <br />
 Violating the hierarchy of headings. <br />
 
-❤️ Semantic Markup <br />
+**❤️ Semantic Markup** <br />
 Use semantic tags like `<header>`, `<main>`, `<footer>`, `<nav>`, etc. <br />
 Headers should use `<h1>` to `<h6>`, paragraphs `<p>`, and `<div>` for containers. <br />
 
@@ -70,33 +70,34 @@ Headers should use `<h1>` to `<h6>`, paragraphs `<p>`, and `<div>` for container
 <hr>
 <header></header>
 ```
-❤️ The layout must be valid. <br />
+
+**❤️ The layout must be valid.** <br />
 HTML must pass validation at https://validator.w3.org/
 
-❤️ All pages should be linked and checked for broken links.
+**❤️ All pages should be linked and checked for broken links.**
 
-❤️ Each page must have an `<h1>` tag that is different from the page title.
+**❤️ Each page must have an `<h1>` tag that is different from the page title.**
 
-💛 Use the minimum possible number of HTML elements. <br />
+**💛 Use the minimum possible number of HTML elements. <br />**
 No unnecessary wrappers in the markup. <br />
 There should be no empty blocks for presentational purposes. Use pseudo-elements for this. <br />
 🚩 If an element has no styles or they can be transferred to the nearest enclosing element.
 
-💛 The heading tree structure is maintained. <br />
+**💛 The heading tree structure is maintained. <br />**
 From the headings, a table of contents can be formed like in a book. <br />
 Heading levels go in order from top to bottom and are not skipped. <br />
 Check it on https://yoksel.github.io/html-tree. 
 
-💛 The logo on internal pages should lead to the home page. <br />
+**💛 The logo on internal pages should lead to the home page. **<br />
 On the home page, the logo should not lead to any page.
 
-💛 External links should have the attribute target="_blank".
+**💛 External links should have the attribute target="_blank".**
 
-💚 Description meta tag must be set <br />
+**💚 Description meta tag must be set <br />**
 The `<meta type=”description”>` must be unique and less than 150 characters. <br />
 It appears in search engines below the title.
 
-💚 Favicon icons display correctly. <br />
+**💚 Favicon icons display correctly. <br />**
 Format – ico, png, svg. <br />
 Sizes – 16х16, 32х32, 48х48, 64х64.
 
