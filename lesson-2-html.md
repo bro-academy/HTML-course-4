@@ -3,11 +3,11 @@
 **[Presentation](presentations/presentation-2-html.pdf)**<br />
 **[Manual](manuals/manual-2-html.pdf)**<br /> 
 
-Part 1: 
+<!-- Part 1:  -->
 <!-- **[Group 1 video]()**<br />
 **[Group 2 video]()**<br /> -->
 
-Part 2: 
+<!-- Part 2:  -->
 <!-- **[Group 1 video]()**<br />
 **[Group 2 video]()**<br /> -->
 
@@ -15,11 +15,11 @@ Part 2:
 
 1. Make semantic markup for the **Homepage** [template](https://www.figma.com/design/jqIedRSOsKC20T9QeDDNdL/BinaBox-UI-KIT?node-id=4581-24482&node-type=section&t=jTPmqXeLfy9U9gBW-0).
 
-   1. Choose file - index.html <br />
-   2. Choose semantic tags, exclude block with search in header. <br />
+   <!-- 1. Choose file - index.html <br /> -->
+   - Choose semantic tags, exclude block with search in header. <br />
       <!-- All elements should be assigned classes. [Common class names cheat sheet](manuals/class-names.md). <br /> -->
-   3. Before submitting for review, [validate](https://validator.nu/#textarea) the markup.
-   4. Check [headings tree](https://yoksel.github.io/html-tree/)
+   - Before submitting for review, [validate](https://validator.nu/#textarea) the markup.
+   - Check [headings tree](https://yoksel.github.io/html-tree/)
 
    The markup should be done using Emmet. <br />
    Don't insert images, just add tags for them. 
@@ -30,35 +30,35 @@ Name for file - blog-article.html
 
 ## Criteria HTML
 
-❤️ The document must begin with `<!DOCTYPE HTML>`.
+❤️ The document must begin with `<!DOCTYPE HTML>`. <br />
 A correct doctype ensures the pages display according to standards.
 
 ❤️ Each page must have the lang attribute set according to the page's language.
 
-❤️ The document must have a specified encoding.
+❤️ The document must have a specified encoding. <br />
 UTF-8 is universal and compatible; it is the current standard.
 
-❤️ Title Tag must be set on all pages.
-SEO: Google trims titles between 472 to 482 pixels, so the title length should be around 55 characters.
+❤️ Title Tag must be set on all pages. <br />
+SEO: Google trims titles between 472 to 482 pixels, so the title length should be around 55 characters. <br />
 `<title>` must be unique on each page.
 
 ❤️ All elements must be marked up and styled.
 
 ❤️ No gross markup errors.
 
-  ❌ Gross errors:
-Using tags other than`<a>` for links.
-Using `<span>` for large layout blocks.
-Using `<br>` for line breaks in text.
-And so on...
+  ❌ Gross errors: <br />
+Using tags other than`<a>` for links. <br />
+Using `<span>` for large layout blocks. <br />
+Using `<br>` for line breaks in text. <br />
+And so on... <br />
 
-  ✅ Not gross errors:
-Absence of semantic tags.
-Violating the hierarchy of headings.
+  ✅ Not gross errors: <br />
+Absence of semantic tags. <br />
+Violating the hierarchy of headings. <br />
 
-❤️ Semantic Markup
-Use semantic tags like `<header>`, `<main>`, `<footer>`, `<nav>`, etc.
-Headers should use `<h1>` to `<h6>`, paragraphs `<p>`, and `<div>` for containers.
+❤️ Semantic Markup <br />
+Use semantic tags like `<header>`, `<main>`, `<footer>`, `<nav>`, etc. <br />
+Headers should use `<h1>` to `<h6>`, paragraphs `<p>`, and `<div>` for containers. <br />
 
   ❌ Bad:
 ```
@@ -70,34 +70,34 @@ Headers should use `<h1>` to `<h6>`, paragraphs `<p>`, and `<div>` for container
 <hr>
 <header></header>
 ```
-❤️ The layout must be valid.
+❤️ The layout must be valid. <br />
 HTML must pass validation at https://validator.w3.org/
 
 ❤️ All pages should be linked and checked for broken links.
 
 ❤️ Each page must have an `<h1>` tag that is different from the page title.
 
-💛 Use the minimum possible number of HTML elements.
-No unnecessary wrappers in the markup.
-There should be no empty blocks for presentational purposes. Use pseudo-elements for this.
+💛 Use the minimum possible number of HTML elements. <br />
+No unnecessary wrappers in the markup. <br />
+There should be no empty blocks for presentational purposes. Use pseudo-elements for this. <br />
 🚩 If an element has no styles or they can be transferred to the nearest enclosing element.
 
-💛 The heading tree structure is maintained.
-From the headings, a table of contents can be formed like in a book.
-Heading levels go in order from top to bottom and are not skipped.
-Check it on https://yoksel.github.io/html-tree.
+💛 The heading tree structure is maintained. <br />
+From the headings, a table of contents can be formed like in a book. <br />
+Heading levels go in order from top to bottom and are not skipped. <br />
+Check it on https://yoksel.github.io/html-tree. 
 
-💛 The logo on internal pages should lead to the home page.
+💛 The logo on internal pages should lead to the home page. <br />
 On the home page, the logo should not lead to any page.
 
 💛 External links should have the attribute target="_blank".
 
-💚 Description meta tag must be set
-The `<meta type=”description”>` must be unique and less than 150 characters.
+💚 Description meta tag must be set <br />
+The `<meta type=”description”>` must be unique and less than 150 characters. <br />
 It appears in search engines below the title.
 
-💚 Favicon icons display correctly.
-Format – ico, png, svg.
+💚 Favicon icons display correctly. <br />
+Format – ico, png, svg. <br />
 Sizes – 16х16, 32х32, 48х48, 64х64.
 
 ## Additional homework 
