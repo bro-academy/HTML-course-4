@@ -1,15 +1,15 @@
-# Lesson 3. Semantic HTML
+# Lesson 2. Semantic HTML
 
 **[Presentation](presentations/presentation-2-html.pdf)**<br />
 **[Manual](manuals/manual-2-html.pdf)**<br /> 
 
-<!-- Part 1:  -->
-<!-- **[Group 1 video]()**<br />
-**[Group 2 video]()**<br /> -->
+**Part 1:** <br />
+**[Group 1 video](https://drive.google.com/file/d/13INJgdNndRsRVcJrNaLdepPwqbvNJ4iH/view?usp=sharing)**<br />
+**[Group 2 video](https://drive.google.com/file/d/10Cxz4Nz9PTHUF1KTlTeWTeVWpwVeRyf5/view?usp=sharing)**<br />
 
-<!-- Part 2:  -->
-<!-- **[Group 1 video]()**<br />
-**[Group 2 video]()**<br /> -->
+**Part 2:** <br />
+**[Group 1 video](https://drive.google.com/file/d/1OWOjHijsSfFMc7XdgM1lHG1tbV8-LRyl/view?usp=sharing)**<br />
+**[Group 2 video](https://drive.google.com/file/d/1o8K1rlJ5zTAH2w93xpbVOFNu-3SqUhif/view?usp=sharing)**<br />
 
 # Homework
 
@@ -42,7 +42,7 @@ UTF-8 is universal and compatible; it is the current standard.
 SEO: Google trims titles between 472 to 482 pixels, so the title length should be around 55 characters. <br />
 `<title>` must be unique on each page.
 
-**❤️ All elements must be marked up and styled.**
+<!-- **❤️ All elements must be marked up and styled.** -->
 
 **❤️ No gross markup errors.**
 
