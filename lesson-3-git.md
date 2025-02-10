@@ -1,4 +1,4 @@
-# Lesson 2. Git
+# Lesson 3. Git & Github 
 
 <!-- **[Video record part 2](https://drive.google.com/file/d/1xYI7P6JE8VNukwGaCM3R6S88hGGI9mRW/view?usp=sharing)** <br /> -->
 
@@ -28,6 +28,34 @@
 12. Create a pull request
 13. Attach the link of it to the task into Pull Request field (above the description) -->
 
+## Criteria GIT
+
+**❤️ The site should have a GitHub repository** <br />
+
+**❤️ There's no system file** <br />
+No .DS_Store or Thumbs.db files in the repository
+
+**❤️ There are no commits in the target branch** <br />
+Target branch (usually main) not contains only merge commits
+
+**💛 Commit messages are descriptive** <br />
+✅ good: "fix validation in contact form" <br />
+❌ bad: "fix", "sdfsdf"
+
+**💛 Use the imperative mood** <br />
+✅ good: "fix validation" <br />
+❌ bad: "fixed validation"
+
+**💛 Each commit is a logical unit** <br />
+don't commit more than described
+
+**💚 Commits are atomic** <br />
+logical units, the smallest possible size
+
+**💚 Commit message no longer than 60 symbols** <br />
+to be visible in GitHub UI
+
+
 # Additional Materials
 
 ## Courses
@@ -51,7 +79,7 @@ All courses use console Git, but they are good for practicing basic commands and
 
 **[Git Handbook from GitHub](https://docs.github.com/en/get-started/using-git/about-git)** - A guide to Git from GitHub providing extensive information on the version control system Git, its main concepts, and capabilities. The guide is available in English, but a Russian version can be found on the GitHub website.
 
-**[Git Documentation from Codecademy](https://www.codecademy.com/resources/docs/git)** - Documentation on Git from the educational platform Codecademy, offering useful information on both the basic and advanced aspects of using Git. This resource is suitable for both beginners and advanced users looking to deepen their knowledge.
+<!-- **[Git Documentation from Codecademy](https://www.codecademy.com/resources/docs/git)** - Documentation on Git from the educational platform Codecademy, offering useful information on both the basic and advanced aspects of using Git. This resource is suitable for both beginners and advanced users looking to deepen their knowledge. -->
 
 ## GIT
 
@@ -93,5 +121,5 @@ Currently, working in the console is not required, but in the future, it will be
 ## How to solve problems with Git
 Currently, it is unlikely that any problems with Git will arise, but different situations happen, and you can find answers via the links below.
 
-🟢 **[My Git Second Brain](https://itnext.io/my-git-second-brain-d962163e86fa)** - An article presenting the concept of using Git as a "second brain" for managing knowledge and information, which can significantly increase productivity and organization in a developer's work.
+**[My Git Second Brain](https://itnext.io/my-git-second-brain-d962163e86fa)** - An article presenting the concept of using Git as a "second brain" for managing knowledge and information, which can significantly increase productivity and organization in a developer's work.
 
