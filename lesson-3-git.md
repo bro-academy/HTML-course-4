@@ -1,11 +1,15 @@
 # Lesson 3. Git & Github 
 
-<!-- **[Video record part 2](https://drive.google.com/file/d/1xYI7P6JE8VNukwGaCM3R6S88hGGI9mRW/view?usp=sharing)** <br /> -->
+**[Presentation 1](presentations/presentation-3-1-git.pdf)**<br />
+**[Manual](manuals/manual-git.pdf)**<br /> 
 
-<!-- **[Presentation: Git offline](presentations/git-0.pdf)**<br />
-**[Presentation: Git online](presentations/git-1.pdf)**<br /> -->
+**Part 1:** <br /> 
+**[Group 1 video](https://drive.google.com/file/d/1BPyzmgjOe2KRDhD2Ze9uox50AREqJHV0/view?usp=sharing)**<br />
+<!-- **[Group 2 video]()**<br /> -->
 
-**[Manual](manuals/manual-git.pdf)**<br />
+<!-- **Part 2:** <br />
+**[Group 1 video]()**<br />
+**[Group 2 video]()**<br /> -->
 
 # Homework
 
