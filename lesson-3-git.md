@@ -8,9 +8,9 @@
 **[Group 1 video](https://drive.google.com/file/d/1BPyzmgjOe2KRDhD2Ze9uox50AREqJHV0/view?usp=sharing)**<br />
 **[Group 2 video](https://drive.google.com/file/d/19PD7KWOjxcqEaYhbZ4HpEt_cfscbCXKD/view?usp=sharing)**<br />
 
-<!-- **Part 2:** <br />
-**[Group 1 video]()**<br />
-**[Group 2 video]()**<br /> -->
+**Part 2:** <br />
+**[Group 1 video](https://drive.google.com/file/d/1zmAk6lVk0VygGwITLWrSjZtySXmFwt7B/view?usp=sharing)**<br />
+**[Group 2 video](https://drive.google.com/file/d/1aqunP8Vc9hwKflCwr0nZzIBru6AJVbkC/view?usp=sharing)**<br /> 
 
 # Homework
 
