@@ -14,24 +14,20 @@
 
 # Homework
 
-<!-- You don't need to repeat what you already did on the lesson
+1. **Add README.md**
+   1. Create a branch with your task about git lesson
+   2. Add yourself and your mentor into README.md
+   3. Commit and push these changes
+   4. Create a pull request and set your mentor as a reviewer
+   5. Wait until your mentor will merge your branch into target branch
 
-1. Open the repository link - [binabox](https://github.com/bro-academy/binabox)
-2. Find the fork button and click on it
-3. Choose `bro-academy` as an owner of the repo
-4. Add your GitHub username to repo name with minus sign, like `binabox-fogrew`
-5. Clone it to your computer via VS Code
-6. Locate the project folder on your computer and verify that it contains the forked files.
-7. Create a branch for your task
-8. Create a README.md file
-9. Describe your repo:
-   * Add your `@username` as a main contributor
-   * Add your mentor `@username` as a code reviewer
-10. Add the file to stage
-11. Write a commit message and press Commit
-11. Publish the branch or push your changes if branch is already published
-12. Create a pull request
-13. Attach the link of it to the task into Pull Request field (above the description) -->
+2. **Save results of HTML lesson**
+   1. Move back to target branch
+   2. Create another branch with your task about html lesson
+   3. Add your HTML files (index.html, blog.html)
+   4. Commit and push
+   5. Create a pull request and set your mentor as a reviewer
+   6. Wait until your mentor will merge your branch into target branch
 
 ## Criteria GIT
 
