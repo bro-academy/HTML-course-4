@@ -15,11 +15,8 @@
 
 <!-- Lesson 1. Intro -->
 [Lesson 1. Intro](lesson-1-intro.md)  <br />
-
-Lesson 2. HTML
-<!-- [Lesson 2. HTML](lesson-2.md)  <br /> -->
-Lesson 3. GIT
-<!-- [Lesson 3. GIT](lesson-3.md) <br /> -->
+[Lesson 2. HTML](lesson-2-html.md)  <br />
+[Lesson 3. GIT](lesson-3-git.md) <br />
 Lesson 4. BEM
 <!-- [Lesson 4. BEM] -->
 Lesson 5. Basic CSS
