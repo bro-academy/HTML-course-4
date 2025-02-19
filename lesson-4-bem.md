@@ -1,11 +1,11 @@
-# Lesson 4. Naming methdologies: BEM
+# Lesson 4. Naming methodologies: BEM
 
 **[Presentation](presentations/presentation-4-bem.pdf)**<br />
 **[Manual](manuals/manual-4-bem.pdf)**<br /> 
 
-<!-- **Part 1:** <br />  -->
-<!-- **[Group 1 video]()**<br /> -->
-<!-- **[Group 2 video]()**<br /> -->
+**Part 1:** <br /> 
+**[Group 1 video](https://drive.google.com/file/d/136k0cBVlbYtJDJ8D8-6Ej7Ha0-PZZs62/view?usp=sharing)**<br />
+**[Group 2 video](https://drive.google.com/file/d/1dvqm-6OQsGcLAZksTcQr_Md-VNSutDJJ/view?usp=sharing)**<br />
 
 <!-- **Part 2:** <br /> -->
 <!-- **[Group 1 video]()**<br /> -->
@@ -76,7 +76,7 @@ These demos provide practical examples of various CSS methodologies, aiding in t
 - [**BEM Example 5 – BroAcademy**](https://codepen.io/broacademy/pen/yyBaEQq?editors=1100)  
   *Two similar examples showcasing how modifiers work in BEM. Demonstrates different states of a component using BEM naming conventions.*
 
-- [**BEM Example 3 – MattIn4D**](https://codepen.io/MattIn4D/pen/AYyxqO?editors=1000)  
+- 🟢 [**BEM Example 3 – MattIn4D**](https://codepen.io/MattIn4D/pen/AYyxqO?editors=1000)  
   *An example of using modifiers in BEM. Shows how modifying a class can affect the appearance and behavior of a component.*
 
 - [**BEM Example 4 – BroAcademy**](https://codepen.io/broacademy/pen/ByBLVGZ?editors=1000)  
@@ -88,7 +88,7 @@ These demos provide practical examples of various CSS methodologies, aiding in t
 - [**BEM Example 7 – Robertegna**](https://codepen.io/robertegna/pen/YqGRJp?editors=1000)  
   *Explains BEM methodology through a house analogy. A great conceptual example illustrating how blocks, elements, and modifiers work together.*
 
-- [**BEM Example 8 – Victorjeman**](https://codepen.io/victorjeman/pen/qNNzQY?editors=1000)  
+- 🟢 [**BEM Example 8 – Victorjeman**](https://codepen.io/victorjeman/pen/qNNzQY?editors=1000)  
   *Another product card example built with BEM. Demonstrates clean structuring and separation of styles for a reusable UI component.*
 
 - [**BEM Example 9 – BroAcademy**](https://codepen.io/broacademy/pen/dPbpKrY?editors=1000)  
@@ -152,17 +152,17 @@ These demos provide practical examples of various CSS methodologies, aiding in t
 ---
 
 ### **📝 Articles & Guides**
+- 🟢 [**BEM by Example – Sparkbox**](https://sparkbox.com/foundry/bem_by_example) – A practical guide with code examples on how to implement BEM effectively.
+- 🟢 [**Understanding CSS Naming Conventions (BEM, OOCSS, SMACSS, and SUIT CSS) – Frontend Mentor**](https://www.frontendmentor.io/articles/understanding-css-naming-conventions-bem-oocss-smacss-and-suit-css-V6ZZUYs1xz) – Compares BEM with other CSS methodologies and explains when to use each.
 - [**About HTML Semantics & Front-End Architecture – Nicolas Gallagher**](https://nicolasgallagher.com/about-html-semantics-front-end-architecture/) – Discusses best practices in HTML semantics, front-end architecture, and includes insights on using BEM effectively.
 - [**MindBEMding – Getting Your Head Round BEM Syntax – CSS Wizardry**](https://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/) – A deep dive into BEM syntax and philosophy, making it easier to understand how to apply BEM in real-world projects.
 - [**Learning to Love BEM – Mono Company**](https://mono.company/frontend/learning-to-love-bem/) – A personal perspective on transitioning to BEM and how it helps developers structure CSS better.
-- [**BEM by Example – Sparkbox**](https://sparkbox.com/foundry/bem_by_example) – A practical guide with code examples on how to implement BEM effectively.
-- [**Understanding CSS Naming Conventions (BEM, OOCSS, SMACSS, and SUIT CSS) – Frontend Mentor**](https://www.frontendmentor.io/articles/understanding-css-naming-conventions-bem-oocss-smacss-and-suit-css-V6ZZUYs1xz) – Compares BEM with other CSS methodologies and explains when to use each.
 - [**CSS: BEM or Atomic Design? – Medium**](https://medium.com/@ConorJonOReilly/css-bem-or-atomic-design-a023beca1a03) – Discusses the differences between BEM and Atomic Design, helping developers choose the right approach.
 
 ---
 
 ### **⚡ Cheat Sheets & Tools**
-- [**BEM Cheat Sheet**](https://bem-cheat-sheet.9elements.com/) – A quick reference guide for naming conventions and structuring BEM classes correctly.
+- 🟢 [**BEM Cheat Sheet**](https://bem-cheat-sheet.9elements.com/) – A quick reference guide for naming conventions and structuring BEM classes correctly.
 - [**BEM Naming Tool**](https://getbem.com/naming/) – An interactive tool that helps generate proper BEM class names.
 - [**Emmet BEM Filter Documentation**](https://docs.emmet.io/filters/bem/) – Explains how to use Emmet shortcuts to quickly generate BEM-compliant HTML structures.
 
