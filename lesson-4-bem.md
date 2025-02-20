@@ -7,8 +7,8 @@
 **[Group 1 video](https://drive.google.com/file/d/136k0cBVlbYtJDJ8D8-6Ej7Ha0-PZZs62/view?usp=sharing)**<br />
 **[Group 2 video](https://drive.google.com/file/d/1dvqm-6OQsGcLAZksTcQr_Md-VNSutDJJ/view?usp=sharing)**<br />
 
-<!-- **Part 2:** <br /> -->
-<!-- **[Group 1 video]()**<br /> -->
+**Part 2:** <br />
+**[Group 1 video](https://drive.google.com/file/d/1HDgpjMZL0PWBzEffDw2WYv681bctsfea/view?usp=sharing)**<br />
 <!-- **[Group 2 video]()**<br />  -->
 
 # Homework
