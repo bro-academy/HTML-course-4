@@ -9,7 +9,7 @@
 
 **Part 2:** <br />
 **[Group 1 video](https://drive.google.com/file/d/1HDgpjMZL0PWBzEffDw2WYv681bctsfea/view?usp=sharing)**<br />
-<!-- **[Group 2 video]()**<br />  -->
+Missed, because of internet connection problems :(
 
 # Homework
 

@@ -17,10 +17,9 @@
 [Lesson 1. Intro](lesson-1-intro.md)  <br />
 [Lesson 2. HTML](lesson-2-html.md)  <br />
 [Lesson 3. GIT](lesson-3-git.md) <br />
-Lesson 4. BEM
-<!-- [Lesson 4. BEM] -->
-Lesson 5. Basic CSS
-<!-- [Lesson 5. Basic CSS](lesson-4.md) <br /> -->
+[Lesson 4. BEM](lesson-4-bem.md) <br />
+[Lesson 5. Basic CSS](lesson-5-css.md) <br />
+
 Lesson 6. CSS++
 <!-- [Lesson 6. CSS++] -->
 Lesson 7. Images on the web
