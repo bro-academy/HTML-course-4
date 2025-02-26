@@ -1,12 +1,13 @@
 # Lesson 5. Introduction to CSS
 
-**[Presentation](presentations/presentation-5-1-css.pdf)**<br />
+**[Presentation 1](presentations/presentation-5-1-css.pdf)**<br />
+**[Presentation 2](presentations/presentation-5-2-css.pdf)**<br />
 **[Manual](manuals/manual-5-css.pdf)**<br /> 
 
-<!-- **Part 1:** <br />
-**[Group 1 video]()**<br />
-**[Group 2 video]()**<br />
-
+**Part 1:** <br />
+**[Group 1 video](https://drive.google.com/file/d/1b77Ye3Dp6DfRdDHp3fJjax4U0iB7K_PN/view?usp=sharing)**<br />
+**[Group 2 video](https://drive.google.com/file/d/1YfdfzHqi8UL2Tw1LL4SCSTOWRj4n4IoY/view?usp=sharing)**<br />
+<!-- 
 **Part 2:** <br />
 **[Group 1 video]()**<br />
 **[Group 2 video]()**<br /> -->
@@ -59,8 +60,6 @@ Keywords are not used. <br />
 1. Complete one of the courses to reinforce the theory:
    - [Scaler](https://www.scaler.com/topics/css/) modules 1-3. It takes about two hours to complete, a lot of theory without practice.
    - [Free code camp](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-1) A detailed course where you simultaneously markup and style based on a single cohesive project. Complete if you want to practice alongside theory. The first 10 steps are only markup, then CSS starts.
-
-2. Learn shorthands for [CSS Emmet](https://docs.emmet.io/css-abbreviations/). 
 
 ### Games
 
