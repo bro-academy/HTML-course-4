@@ -24,17 +24,17 @@ Lesson 6. CSS+
 <!-- [Lesson 6. CSS++] -->
 Lesson 7. Images on the web
 <!-- [Lesson 7. Images on the web](lesson-5.md) <br /> -->
-Lesson 8. Builders
+Lesson 8. Bundlers
 <!-- [Lesson 8. Builders] -->
 Lesson 9. Preprocessors
 <!-- [Lesson 9. Preprocessors] -->
 Lesson 10. Forms
 <!-- [Lesson 10. Forms](lesson-6.md) <br /> -->
-Lesson 11. Box model and flexbox
+Lesson 11. Position and flexbox
 <!-- [Lesson 11. Box model and flexbox](lesson-7.md) <br /> -->
 Lesson 12. Grid layout
 <!-- [Lesson 12. Grid layout](lesson-8.md) <br /> -->
-Lesson 13. Adaptive layout
+Lesson 13. Adaptive layouts
 <!-- [Lesson 13. Adaptive layout] -->
 Lesson 14. Vector graphics
 <!-- [Lesson 14. Vector graphics] -->
