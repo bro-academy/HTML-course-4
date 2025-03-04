@@ -20,7 +20,7 @@
 [Lesson 4. BEM](lesson-4-bem.md) <br />
 [Lesson 5. Basic CSS](lesson-5-css.md) <br />
 
-Lesson 6. CSS++
+Lesson 6. CSS+
 <!-- [Lesson 6. CSS++] -->
 Lesson 7. Images on the web
 <!-- [Lesson 7. Images on the web](lesson-5.md) <br /> -->
