@@ -1,11 +1,11 @@
 # Lesson 6. CSS+
 
-**[Presentation](presentations/presentation-.pdf)**<br />
-**[Manual](manuals/manual-.pdf)**<br /> 
+**[Presentation](presentations/presentation-6-css+.pdf)**<br />
+**[Manual](manuals/manual-6-css+.pdf)**<br /> 
 
-<!-- **Part 1:** <br />  -->
-<!-- **[Group 1 video]()**<br /> -->
-<!-- **[Group 2 video]()**<br /> -->
+**Part 1:** <br /> 
+**[Group 1 video](https://drive.google.com/file/d/1s3qG784fjSO_MwRNFYNNpqX_qcgfQ-GR/view?usp=sharing)**<br />
+**[Group 2 video](https://drive.google.com/file/d/1pHAzWj9OFAINbjxss3_PJ9BEJUm7qJIp/view?usp=sharing)**<br />
 
 <!-- **Part 2:** <br /> -->
 <!-- **[Group 1 video]()**<br /> -->
@@ -17,23 +17,30 @@
    - Implement inner (padding) and outer (margin) spacing for the elements.
 
 2. **Apply all states for links and buttons:** `hover`, `active`, `focus`, according to the UI kit.
+
 - Use pseudo-elements where necessary.
+
+## Criteria CSS
+
+❤️ **Links must respond to :hover, :active и :focus.**
+If not specified in the design, you can use underline, color change, etc.
+
+❤️ **Interactions( :hover, :active и :focus) should not change the document flow.**
+Adjacent elements should not change their position and size unless specified in the style guide.
 
 ## Additional Courses:
 Complete one of the following courses to reinforce your understanding of the theory:
 
 1. **FreeCodeCamp Box Model Course**:
    - [Learn the CSS Box Model by Building a Rothko Painting](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-the-css-box-model-by-building-a-rothko-painting/step-1)
-
 2. **[Learn CSS: Box Model and Layout Course](https://www.codecademy.com/learn/learn-css-box-model-and-layout)**: Codecademy offers a course dedicated to the basics of CSS, including the box model and layout methods, which will help beginners confidently master these concepts.
-
 3. **[Scaler: MODULE 6. Intermediate in CSS. Pseudo Element in CSS](https://www.scaler.com/topics/css/)**
 4. **[freeCodeCamp: Learn More About CSS Pseudo Selectors by Building a Balance Sheet](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-more-about-css-pseudo-selectors-by-building-a-balance-sheet/step-1)**
   In this course, you'll build a balance sheet using pseudo selectors. You'll learn how to change the style of an element when you hover over it with your mouse, and trigger other events on your webpage.
 
 # Demo 
 
-### Pseudo Classes 
+## Pseudo Classes 
 
 🟢 [Pseudo Class Selectors](https://codepen.io/russweakley/pen/PoQjomE): An overview and examples of using pseudo class selectors to style HTML elements.
 
@@ -82,25 +89,17 @@ Complete one of the following courses to reinforce your understanding of the the
 
 🟢 **[Hover Effects in CSS](https://www.scaler.com/topics/hover-css/)**: This article on Scaler presents various methods of creating hover effects in CSS. You will learn different techniques and tricks that will help you create interesting and attractive animations and effects when hovering the mouse cursor.
 
-**[Style focus](https://web.dev/articles/style-focus?hl=en)**: This article on web.dev provides a guide on styling focus in web development. You will learn different ways to style the focus of elements to make your interface more accessible and user-friendly.
-
 🟢 **[CSS Hover Effects for Inline Links](https://webdesign.tutsplus.com/css-hover-effects-for-inline-links--cms-37210t)**: This article on Tuts+ discusses creating hover effects for inline links in CSS. The author presents various methods and techniques for styling links to make them more interactive and attractive for users.
 
 🟢 **[Scale with Pseudo-elements](https://www.joshwcomeau.com/snippets/html/scale-with-pseudoelements/)**: This tutorial on JoshWComeau provides a guide to scaling elements with pseudo-elements in HTML and CSS. You will learn how to use pseudo-elements to create scaling and transformation effects on elements in your web project.
 
-## Pseudoelements / Pseudoclasses 
+**[Style focus](https://web.dev/articles/style-focus?hl=en)**: This article on web.dev provides a guide on styling focus in web development. You will learn different ways to style the focus of elements to make your interface more accessible and user-friendly.
 
-[Hide and Debug Empty Elements with CSS](https://css-irl.info/hide-and-debug-empty-elements-with-css/): Explains how to hide and debug empty elements using CSS, making debugging more convenient.
+## Pseudoelements / Pseudoclasses 
 
 🟢 [An Ultimate Guide to CSS Pseudo-Classes and Pseudo-Elements](https://www.smashingmagazine.com/2016/05/an-ultimate-guide-to-css-pseudo-classes-and-pseudo-elements/): An exhaustive guide on pseudoclasses and pseudoelements, helping to understand and effectively apply them in CSS.
 
 🟢 [Unusual Use Cases for Pseudo-Elements](https://ishadeed.com/article/unusual-use-cases-pseudo-elements): Explores unusual and creative ways to use pseudoelements in CSS, expanding the boundaries of conventional usage.
-
-[Demystifying CSS Pseudo-Classes: `:nth-child` vs. `:nth-of-type`](https://webdesign.tutsplus.com/demystifying-css-pseudo-classes-nth-child-vs-nth-of-type--cms-34221t): Clarifies the difference between the pseudoclasses `:nth-child` and `:nth-of-type`, offering insights into their functionality and best practices.
-
-[CSS-Only Child](https://www.samanthaming.com/tidbits/64-css-only-child/): Discusses using the `:only-child` selector in CSS to style elements that are the sole children of their parents.
-
-[CSS Empty Selector](https://www.samanthaming.com/tidbits/72-css-empty-selector/): Explains how and why to use the `:empty` selector to style empty elements in CSS.
 
 🟢 [CSS Empty](https://ishadeed.com/article/css-empty): Provides an in-depth overview and examples of using the `:empty` selector in CSS to handle empty elements.
 
@@ -108,13 +107,21 @@ Complete one of the following courses to reinforce your understanding of the the
 
 🟢 [Reducing the Need for Pseudo-Elements](https://www.smashingmagazine.com/2021/09/reducing-need-pseudo-elements/): Discusses how to reduce the need for pseudoelements by using modern CSS techniques.
 
-[A Guide to Supported Modern CSS Pseudo-Class Selectors](https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/): Provides a guide to modern CSS pseudoclasses supported in current browser versions, with examples and usage tips.
-
-[New CSS Functional Pseudo-Class Selectors `:is()` and `:where()`](https://web.dev/articles/css-is-and-where?hl=en): Introduces the new functional pseudoclasses `:is()` and `:where()`, simplifying the writing of cleaner and less repetitive code.
-
 🟢 [CSS `:not` Selector](https://www.samanthaming.com/tidbits/46-css-not-selector/): Overview and examples of using the `:not` selector in CSS to exclude specific elements from styling.
 
 🟢 [nth-child tester](https://css-tricks.com/examples/nth-child-tester/): A tool to help test if your `nth-child` selector is working correctly.
+
+[Hide and Debug Empty Elements with CSS](https://css-irl.info/hide-and-debug-empty-elements-with-css/): Explains how to hide and debug empty elements using CSS, making debugging more convenient.
+
+[Demystifying CSS Pseudo-Classes: `:nth-child` vs. `:nth-of-type`](https://webdesign.tutsplus.com/demystifying-css-pseudo-classes-nth-child-vs-nth-of-type--cms-34221t): Clarifies the difference between the pseudoclasses `:nth-child` and `:nth-of-type`, offering insights into their functionality and best practices.
+
+[CSS-Only Child](https://www.samanthaming.com/tidbits/64-css-only-child/): Discusses using the `:only-child` selector in CSS to style elements that are the sole children of their parents.
+
+[CSS Empty Selector](https://www.samanthaming.com/tidbits/72-css-empty-selector/): Explains how and why to use the `:empty` selector to style empty elements in CSS.
+
+[A Guide to Supported Modern CSS Pseudo-Class Selectors](https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/): Provides a guide to modern CSS pseudoclasses supported in current browser versions, with examples and usage tips.
+
+[New CSS Functional Pseudo-Class Selectors `:is()` and `:where()`](https://web.dev/articles/css-is-and-where?hl=en): Introduces the new functional pseudoclasses `:is()` and `:where()`, simplifying the writing of cleaner and less repetitive code.
 
 ## List Styles
 
@@ -124,19 +131,23 @@ Complete one of the following courses to reinforce your understanding of the the
 
 🟢 [Custom Bullets with CSS ::marker](https://web.dev/articles/css-marker-pseudo-element?hl=en): A guide to creating custom list markers using the CSS ::marker pseudoelement.
 
-[Inside Aligned Lists](https://css-tricks.com/video-screencasts/184-inside-aligned-lists/): A video tutorial on aligning lists and their markers inside elements.
-
 🟢 [Quick Tip: Using CSS Counters to Style Incremental Elements](https://webdesign.tutsplus.com/quick-tip-using-css-counters-to-style-incremental-elements--cms-23497t): Tips on using CSS counters to style incremental elements.
 
 🟢 [CSS Counter](https://www.samanthaming.com/tidbits/53-css-counter/): A detailed explanation of working with CSS counters to create numbered lists.
 
 [Centered List Markers](https://css-tricks.com/video-screencasts/202-centered-list-markers/): A video tutorial on centering list markers using CSS.
 
+[Inside Aligned Lists](https://css-tricks.com/video-screencasts/184-inside-aligned-lists/): A video tutorial on aligning lists and their markers inside elements.
+
 ## Box Model
 
 🟢 **[Interactive Box Model](http://codepen.io/carolineartz/full/ogVXZj/)**: An interactive demo allowing a visual study of the box model in CSS.
 
 🟢 **[The Box Model Cheatsheets](https://www.codecademy.com/learn/learn-css-box-model-and-layout/modules/learn-css-box-model/cheatsheet)**: Cheat sheets from Codecademy explaining the basics of the CSS box model.
+
+🟢 **[Everything About the Value Auto](https://ishadeed.com/article/auto-css/)**: An analysis of the `auto` value in CSS, examining its use for various properties.
+
+🟢 **[Clickable Area](https://ishadeed.com/article/clickable-area)**: An exploration of how the size and positioning of an element affect its clickability.
 
 <!-- **[Visual Formatting Model](https://www.w3.org/TR/CSS21/visuren.html)**: The official W3C specification describing the visual formatting model in CSS. -->
 
@@ -146,10 +157,6 @@ Complete one of the following courses to reinforce your understanding of the the
 
 **[Everything You Need to Know About the CSS Box Model](https://css-tricks.com/the-css-box-model/)**: An article on CSS-Tricks, thoroughly explaining each component of the box model.
 
-🟢 **[Everything About the Value Auto](https://ishadeed.com/article/auto-css/)**: An analysis of the `auto` value in CSS, examining its use for various properties.
-
-🟢 **[Clickable Area](https://ishadeed.com/article/clickable-area)**: An exploration of how the size and positioning of an element affect its clickability.
-
 ### Margin
 
 <!-- **[CSS Margins Guide](https://devdojo.com/guide/css/margins)**: An extensive guide on using margins in CSS, including examples and frequently asked questions. -->
@@ -157,6 +164,8 @@ Complete one of the following courses to reinforce your understanding of the the
 <!-- **[Please Give Me Some Space](https://css-tricks.com/please-give-me-some-space/)**: An article on CSS-Tricks about using space and margins in CSS, illustrating how to properly manage element placement. -->
 
 🟢 **[The Rules of Margin Collapse](https://www.joshwcomeau.com/css/rules-of-margin-collapse/)**: Josh Comeau explains the rules of margin collapse in CSS, helping you better understand how CSS handles adjacent margins.
+
+🟢 **[Spacing in CSS](https://ishadeed.com/article/spacing-in-css/)**: Ahmad Shadeed demonstrates various techniques for working with `margin`, `padding`, and `gap`, supported by practical examples.
 
 **[CSS: Margin vs. Padding](https://www.atatus.com/blog/css-margin-vs-padding/)**: A comparison of the `margin` and `padding` properties in CSS, illustrating their differences and use cases.
 
@@ -169,8 +178,6 @@ Complete one of the following courses to reinforce your understanding of the the
 <!-- **[The Definitive Guide to Using Negative Margins](https://www.smashingmagazine.com/2009/07/the-definitive-guide-to-using-negative-margins/)**: A detailed guide on using negative margins to achieve complex layouts. -->
 
 <!-- **[CSS Property: Margin](https://webdesign.tutsplus.com/css-property-margin--cms-107392a)**: A guide to the `margin` property in CSS, explaining its impact on element placement. -->
-
-🟢 **[Spacing in CSS](https://ishadeed.com/article/spacing-in-css/)**: Ahmad Shadeed demonstrates various techniques for working with `margin`, `padding`, and `gap`, supported by practical examples.
 
 <!-- **[CSS Margin vs. Padding](https://www.atatus.com/blog/css-margin-vs-padding/)**: An article explaining the difference between `margin` and `padding`, which is critical for proper spatial separation of elements. -->
 
