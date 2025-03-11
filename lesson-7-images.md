@@ -1,11 +1,12 @@
 # Lesson 7. Images in the web
 
-**[Presentation](presentations/presentation-7-images.pdf)**<br />
+**[Presentation 1](presentations/presentation-7-1-images.pdf)**<br />
+<!-- **[Presentation 2](presentations/presentation-7-2-images.pdf)**<br /> -->
 **[Manual](manuals/manual-7-images.pdf)**<br /> 
 
-<!-- **Part 1:** <br />
-**[Group 1 video]()**<br />
-**[Group 2 video]()**<br />
+**Part 1:** <br />
+**[Group 1 video](https://drive.google.com/file/d/1pHU2prcIHZVqJ0NBa405qOoPco_xPeW_/view?usp=sharing)** (sound missed) <br />
+<!-- **[Group 2 video]()**<br />
 
 **Part 2:** <br />
 **[Group 1 video]()**<br />
@@ -21,7 +22,7 @@
     - `background-image` for decorative images
 3. Add alt text in `<img>` tags. 
 4. Add basic sizes: width and height, in `<img>` tags. 
-<!-- 5. Add background-color property for selectors with background-image.  -->
+5. Add background-color property for selectors with background-image. 
 
 ## Additionally:
 1. Add a favicon to the website.
@@ -38,7 +39,7 @@ SVG for low-color images and icons.
 Shadows, rounded corners, filters, blend modes, gradients, transparency, and others should be added using CSS. 
 
 ❤️
-**Image Insertion** <br />
+**Correct Image Insertion method** <br />
 Use ```<img>``` for content images <br />
 ```background-image``` for decorative images. 
 
@@ -48,11 +49,11 @@ Use ```<img>``` for content images <br />
 ❤️
 **Provide alt text for all images.** <br />
 
-<!-- 💛
-**Optimize images for browser rendering.** <br /> -->
+💛
+**Optimize images for browser rendering.** <br />
 
-<!-- 💛  
-**Elements with background images should have a matching background color.**  <br /> -->
+💛  
+**Elements with background images should have a matching background color.**  <br />
 
 💚  
 **Favicon icons display correctly.**  <br />
