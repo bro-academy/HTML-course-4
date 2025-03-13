@@ -20,9 +20,9 @@
 
 - Use pseudo-elements where necessary.
 
-## Criteria CSS
+## Criteria CSS+
 
-❤️ **Links must respond to :hover, :active и :focus.**
+❤️ **Links and buttons must respond to :hover, :active и :focus.**
 If not specified in the design, you can use underline, color change, etc.
 
 ❤️ **Interactions( :hover, :active и :focus) should not change the document flow.**
