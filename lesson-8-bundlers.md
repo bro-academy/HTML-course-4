@@ -16,23 +16,24 @@
 # Homework
 
 **Part 1:Set Up Gulp Build**
-1. Copy the necessary Gulp configuration files (gulpfile.js, package.json, etc.) to your project.
+1. Copy the necessary Gulp configuration files (`gulpfile.js`, `package.json`, etc.) to your project.
 2. Organize your project files:
-- Move all images to the src/images/ folder.
-- Copy the styles from your existing CSS file and place them in src/styles/style.scss.
+- Move all images to the `src/images/ folder`.
+- Copy the styles from your existing CSS file and place them in `src/styles/style.scss`.
 
 **Part 2: Create HTML Templates Using Nunjucks**
 1. Set up the templates folder structure:
-- src/templates/ → Main folder for all .njk files.
-- src/templates/layouts/ → Base structure for pages (base.njk).
-- src/templates/pages/ → Separate folder for each page (index.njk, about.njk, etc.).
-- src/templates/partials/ → Components (e.g., header, footer, product cards).
-- src/templates/data.json → Store dynamic data (e.g., product lists, user profiles).
+- `src/templates/` → Main folder for all `.njk` files.
+- `src/templates/layouts/` → Base structure for pages (`base.njk`).
+- `src/templates/pages/` → Separate folder for each page (`index.njk`, `about.njk`, etc.).
+- `src/templates/partials/` → Components (e.g., header, footer, product cards).
+- `src/templates/data.json` → Store dynamic data (e.g., product lists, user profiles).
+
 2. Implement the Nunjucks templating system:
-- Create a base template (base.njk) with {% block %} sections for content.
-- Use {% extends %} to inherit the layout structure.
-- Include reusable components (header, footer) with {% include %}.
-- Work with variables and loops ({% for %}, {% if %}) to generate dynamic content.
+- Create a base template (`base.njk`) with `{% block %}` sections for content.
+- Use `{% extends %}` to inherit the layout structure.
+- Include reusable components (header, footer) with `{% include %}`.
+- Work with variables and loops (`{% for %}`, `{% if %}`) to generate dynamic content.
 
 ## Criteria 
 
