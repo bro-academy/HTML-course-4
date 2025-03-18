@@ -36,6 +36,35 @@
 
 ## Criteria 
 
+❤️ **Gulp is used as a build tool**  
+   - The project is set up with **Gulp** for automation tasks.  
+
+❤️ **Public and node_modules folders should not be in the GitHub repository**  
+   - The `.gitignore` file is configured to exclude **automatically generated build files**.  
+
+❤️ **The project builds correctly**  
+   - After running `npm start` or `npm run dev`, the project should build **without critical errors**.  
+   - The final files should be correctly placed in `public/` **without manual intervention**.  
+   - The build process **should stop** if critical errors occur.  
+
+❤️ **No errors (`error`) in the console during the build process**  
+   - The console should not show **red error messages (`error`)**.  
+   - All dependencies should be installed, and plugins should be correctly configured.  
+
+❤️ **The project is structured using Nunjucks templates**  
+   - **Layouts (`layouts/`)** contain the base structure (`base.njk`).  
+   - **Partials (`partials/`)** store reusable components (header, footer, product cards, etc.).  
+   - **Text content is moved to `data.json`** for better management of dynamic data.  
+
+💛 **No warnings (`warning`) in the console during the build process**  
+   - The console should not show **yellow warning messages (`warning`)**, such as **package incompatibilities or missing dependencies**.  
+   - The code should follow best practices and be validated with linters (`stylelint`, `eslint`, `htmllint`).  
+
+💛 **Loops, variables, and dynamic data are used in Nunjucks**  
+   - **Variables are created** using `{% set %}` or fetched from `data.json`.  
+   - **Loops (`{% for %}`)** are used to generate lists of elements (e.g., products, reviews).  
+   - **Conditional statements (`{% if %}`)** are used to check for data presence or to display different blocks.  
+
 
 # Additional Materials
 
