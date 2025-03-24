@@ -1,24 +1,24 @@
 # Lesson 8. Bundlers and templating 
 
 **[Presentation 1](presentations/presentation-8-bundlers.pdf)**<br />
-<!-- **[Presentation 2](presentations/presentation-8-templating.pdf)**<br /> -->
+**[Presentation 2](presentations/presentation-8-templating.pdf)**<br />
 **[Manual](manuals/manual-8-bundlers.pdf)**<br /> 
 <!-- **[Manual](manuals/manual-8-templating.pdf)**<br />  -->
 
-**Part 1:** <br /> 
+**Part 1: Bundlers** <br /> 
 **[Group 1 video](https://drive.google.com/file/d/13g9c_Y1nAfJNX3lQchftC__sRSakatnw/view?usp=sharing)**<br />
-<!-- **[Group 2 video]()**<br /> -->
+**[Group 2 video](https://drive.google.com/file/d/14EYym_Eg5LRRFxnx80nVRvoYIiwMafGz/view?usp=sharing)**<br />
 
-<!-- **Part 2:** <br />
-**[Group 1 video]()**<br />
-**[Group 2 video]()**<br />  -->
+**Part 2: Templating** <br />
+**[Group 1 video](https://drive.google.com/file/d/13mKjLyg4L1_QlAwEC5E000fvellJZpUQ/view?usp=sharing)**<br />
+**[Group 2 video](https://drive.google.com/file/d/1XcdMFg4ms5o1UeBWwBnT8S2LnnKThdG1/view?usp=sharing)**<br /> 
 
 # Homework
 
 **Part 1:Set Up Gulp Build**
 1. Copy the necessary Gulp configuration files (`gulpfile.js`, `package.json`, etc.) to your project.
 2. Organize your project files:
-- Move all images to the `src/images/ folder`.
+- Move all images to the `src/images/static` folder.
 - Copy the styles from your existing CSS file and place them in `src/styles/style.scss`.
 
 **Part 2: Create HTML Templates Using Nunjucks**
