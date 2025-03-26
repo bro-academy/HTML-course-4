@@ -22,9 +22,8 @@
 [Lesson 6. CSS+](lesson-6-css+.md) <br />
 [Lesson 7. Images on the web](lesson-7-images.md) <br />
 [Lesson 8. Builders and templates](lesson-8-bundlers.md) <br />
+[Lesson 9. Preprocessors](lesson-9-preprocessors.md) <br />
 
-Lesson 9. Preprocessors
-<!-- [Lesson 9. Preprocessors] <br /> -->
 Lesson 10. Forms
 <!-- [Lesson 10. Forms](lesson-6.md) <br /> -->
 Lesson 11. Position and flexbox
