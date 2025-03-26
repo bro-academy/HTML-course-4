@@ -3,9 +3,9 @@
 **[Presentation 1](presentations/presentation-9-preprocessors.pdf)**<br />
 <!-- **[Manual](manuals/manual-9-preprocessors.pdf)**<br />  -->
 
-<!-- **Part 1:** <br /> 
-**[Group 1 video]()**<br />
-**[Group 2 video]()**<br /> -->
+**Part 1:** <br /> 
+**[Group 1 video](https://drive.google.com/file/d/1hBCsdvxIbdhecLFR4KcMBZteI8-4MiG-/view)**<br />
+<!-- **[Group 2 video]()**<br /> -->
 
 <!-- **Part 2:** <br />
 **[Group 1 video]()**<br />
@@ -25,11 +25,11 @@
 
 ## Criteria 
 
-❤️ **SCSS preprocessor is used**
-❤️ **Styles are split into components**
-❤️ **SCSS variables are used for colors and fonts**
-💛 **Mixins are used where appropriate**
-💛 **No magic numbers (all values are explained or reusable)**
+❤️ **SCSS preprocessor is used** <br />
+❤️ **Styles are split into components** <br />
+❤️ **SCSS variables are used for colors and fonts** <br />
+💛 **Mixins are used where appropriate** <br />
+💛 **No magic numbers (all values are explained or reusable)** <br />
 
 # Additional Materials
 
