@@ -1,15 +1,15 @@
 # Lesson 9. Preprocessors
 
-**[Presentation 1](presentations/presentation-9-preprocessors.pdf)**<br />
+**[Presentation](presentations/presentation-9-preprocessors.pdf)**<br />
 <!-- **[Manual](manuals/manual-9-preprocessors.pdf)**<br />  -->
 
 **Part 1:** <br /> 
 **[Group 1 video](https://drive.google.com/file/d/1hBCsdvxIbdhecLFR4KcMBZteI8-4MiG-/view)**<br />
-<!-- **[Group 2 video]()**<br /> -->
+**[Group 2 video](https://drive.google.com/file/d/1prSqmuVYZK6fx991ONGvsKFB60cObMgS/view)**<br />
 
-<!-- **Part 2:** <br />
-**[Group 1 video]()**<br />
-**[Group 2 video]()**<br />  -->
+ **Part 2:** <br />
+**[Group 1 video](https://drive.google.com/file/d/149SD52OFdwtjEThymFBr-QFRL2M2ss19/view)**<br />
+<!-- **[Group 2 video]()**<br />  -->
 
 # Homework
 
