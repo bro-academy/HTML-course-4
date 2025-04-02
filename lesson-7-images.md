@@ -76,6 +76,14 @@ Use ```<img>``` for content images <br />
 
 **[How to Use Srcset for the Img Tag](https://russmaxdesign.github.io/srcset/)**: A guide to using the `srcset` attribute to create adaptive images suitable for various devices and screen resolutions.
 
+🟢 **[Styling Background-Image on CodePen](https://codepen.io/russweakley/pen/BaYMYmO)**: Master techniques for working with background images in CSS, making your design more dynamic and interactive. This example illustrates the basic principles of using `background-image`.
+
+🟢 **[How Background-Size Works](http://russmaxdesign.github.io/html-css-tests/sample-background-size/index.htm)**: This resource explains the principles of the CSS `background-size` property, allowing you to precisely control the sizes of background images.
+
+**[Underline with Span and Repeating-Gradient on CodePen](https://codepen.io/michellebarker/pen/yRBzZy?editors=1100)**: Learn how to create impressive underlines using CSS gradients and additional HTML elements. This example offers a creative approach to text styling on your site.
+
+**[Using Border-Image for Border Styling on CodePen](https://codepen.io/michellebarker/pen/NBRQjO?editors=1100)**: Dive into the possibilities of the CSS `border-image` property to add unique borders to your elements. The example shows how to easily apply complex visual effects.
+
 # Tools 
 
 **[Social Share Preview](https://socialsharepreview.com/)**: A tool for previewing how a link will look when shared on social networks. A great way to ensure your content is presentable and attractive to potential audiences.
@@ -183,6 +191,60 @@ https://web.dev/learn/design/picture-element
 **[Automatic Code Generator for Inserting Favicon on RealFaviconGenerator](https://realfavicongenerator.net/)**: This tool automates the process of creating and inserting favicons, making life easier for web developers. Simply upload an image, and the generator will provide the necessary code.
 
 **[Favicon Generator](https://www.favicon-generator.org/)**: An online favicon generator that helps create icons for all devices and platforms in just a few clicks. An ideal tool for speeding up the development process.
+
+## Working with Images in CSS
+
+### Patterns 
+
+**[CSS Patterns](https://projects.verou.me/css3patterns/)**: Discover the magical world of CSS patterns with this collection of creative solutions for unique styling of your website. From simple to complex, these patterns will inspire new design ideas.
+
+**[CSS3 Patterns Explained](https://24ways.org/2011/css3-patterns-explained)**: Immerse yourself in the world of CSS3 patterns; this article will tell you about various ways to create and apply them, making your web design more exciting and interactive.
+
+### Background
+
+🟢 **[CSS Backgrounds](https://devdojo.com/guide/css/backgrounds)**: Dive into the world of CSS backgrounds! This guide will teach you how to effectively use colors, images, and gradients to create dynamic and visually appealing web pages.
+
+🟢 **[Object-fit and Background-size Properties in CSS](https://www.smashingmagazine.com/2021/10/object-fit-background-size-css/)**: Master control over the sizes and positions of images on a web page using the object-fit and background-size properties.
+
+🟢 **[Multiple Backgrounds in CSS](https://ishadeed.com/article/css-multiple-backgrounds)**: Explore how to use multiple background images together to create complex designs without burdening the page structure.
+
+**[CSS3 Backgrounds](https://www.slideshare.net/maxdesign/css3-backgrounds)**: This detailed presentation explores the possibilities of CSS3 backgrounds and their application to create unique web designs.
+
+**[Full-Screen Background Image in HTML](https://www.scaler.com/topics/html-background-image-full-screen/)**: Learn how to make your background images full-screen for an immersive visual experience on your web pages.
+
+**[CSS Background and Image Effects](https://sharkcoder.com/images/background)**: This guide covers everything about the background property, showing how to create responsive backgrounds, parallax effects, CSS patterns, animated backgrounds, and more.
+
+### Gradients 
+
+**[Gradients on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/gradient)**: This page provides a specification for gradients, offering readers a detailed explanation of various types of gradients in CSS: from linear to radial and conic. Ideal for both beginners and experienced developers, the page serves as a comprehensive guide to creating colorful, flexible background solutions for any web project.
+
+🟢 **[Radial and Conic Gradients in CSS](https://www.smashingmagazine.com/2022/01/css-radial-conic-gradient/)**: Discover the magic of radial and conic gradients in CSS that will add unique depth and elegance to your designs. This article guides you through the intricacies of creating impressive visual effects.
+
+🟢 **[A Complete Guide to CSS Gradients](https://css-tricks.com/a-complete-guide-to-css-gradients/)**: This comprehensive guide will teach you everything you need to know about creating gradients in CSS, from simple linear to complex radial gradients.
+
+**[Some Links About CSS Gradients](https://css-tricks.com/some-links-about-css-gradients/)**: A collection of links from CSS-Tricks diving into the world of CSS gradients, offering sources of inspiration and learning resources to expand your knowledge.
+
+**[Responsive Image Effects with CSS Gradients and Aspect Ratio](https://www.smashingmagazine.com/2021/02/responsive-image-effects-css-gradients-aspect-ratio/)**: Learn how to use CSS gradients to create responsive image effects, enriching user experience on any device.
+
+**[Using Gradients in Web Design](https://webdesign.tutsplus.com/how-to-use-gradients-on-the-web--cms-29922t)**: Get acquainted with creative ways to use gradients in web design that will give your site a modern and attractive look.
+
+🟢 **[Make Beautiful Gradients](https://www.joshwcomeau.com/css/make-beautiful-gradients/)** and **[Gradient Generator](https://www.joshwcomeau.com/gradient-generator/)**: Two resources from Josh Comeau that will teach you how to create mesmerizing gradients, adding visual interest to your projects.
+
+<!-- **[Radial Gradients and CSS Trigonometric Functions](https://css-irl.info/radial-gradients-and-css-trigonometric-functions/)** and **[Messing About with CSS Gradients](https://css-irl.info/messing-about-with-css-gradients/)**: Explore advanced techniques for working with radial gradients and trigonometric functions in CSS, revealing new possibilities for creative design. -->
+
+<!-- **[Use Conic Gradients to Create a Cool Border](https://web.dev/articles/conic-gradient-border?hl=en)**: Learn how to use conic gradients to create unique and stylish borders for elements on your site. -->
+
+**[CSS Gradients: 8 Examples of Usage](https://sharkcoder.com/visual/gradient)**: This article covers examples of using the linear-gradient() function in CSS, including gradient borders, icons, buttons, text, underlining, list markers, and a shimmering background.
+
+<!-- **[Fake Opacity Gradient](https://ishadeed.com/snippet/fake-opacity-gradient)**: Discover the technique of creating an illusion of transparency with CSS gradients, enhancing the visual appeal of your design. -->
+
+### Tools 
+
+**[MeshGradient: Mesh Gradient Generator](https://meshgradient.in/)**: MeshGradient is a tool that provides the opportunity to create stunning mesh gradients, adding unique depth and texture to web design. Ideal for creating backgrounds, headings, and accent elements, this tool makes the design process more creative and engaging.
+
+**[ColorGradient: Gradient Generator](https://colorgradient.dev/)**: ColorGradient.dev simplifies the process of creating perfect CSS gradients with its simple and intuitive interface. Whether it's a soft color transition or a complex multicolor gradient, this tool offers everything needed for quick and efficient design.
+
+**[CSSGradient.io](https://cssgradient.io/)**: CSSGradient.io is another excellent gradient generator that helps create colorful gradients for any web project. With the ability to easily copy and paste the resulting code, CSSGradient.io will become an indispensable tool in any web developer's arsenal.
 
 ## Audio
 

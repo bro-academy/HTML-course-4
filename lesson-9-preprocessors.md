@@ -9,7 +9,7 @@
 
  **Part 2:** <br />
 **[Group 1 video](https://drive.google.com/file/d/149SD52OFdwtjEThymFBr-QFRL2M2ss19/view)**<br />
-<!-- **[Group 2 video]()**<br />  -->
+**[Group 2 video](https://drive.google.com/file/d/1thzc5jSf31wwtRRH4fnxz0JJQ5vlj96I/view)**<br /> 
 
 # Homework
 

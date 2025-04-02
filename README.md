@@ -23,9 +23,8 @@
 [Lesson 7. Images on the web](lesson-7-images.md) <br />
 [Lesson 8. Builders and templates](lesson-8-bundlers.md) <br />
 [Lesson 9. Preprocessors](lesson-9-preprocessors.md) <br />
+[Lesson 10. Forms](lesson-10-forms.md) <br />
 
-Lesson 10. Forms
-<!-- [Lesson 10. Forms](lesson-6.md) <br /> -->
 Lesson 11. Position and flexbox
 <!-- [Lesson 11. Box model and flexbox](lesson-7.md) <br /> -->
 Lesson 12. Grid layout
