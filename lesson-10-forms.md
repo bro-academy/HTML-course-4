@@ -5,11 +5,11 @@
 
 **Part 1:** <br />
 **[Group 1 video](https://drive.google.com/file/d/1QBuNTa4mKQB99xP_5qU42uVzMbu5zT1x/view)**<br />
-<!-- **[Group 2 video]()**<br />
+**[Group 2 video](https://drive.google.com/file/d/1F3oVuPnHnTdMgJbZI0VSqQlQBcFF2aDe/view)**<br /> 
 
 **Part 2:** <br />
-**[Group 1 video]()**<br />
-**[Group 2 video]()**<br /> -->
+**[Group 1 video](https://drive.google.com/file/d/1wkH8tF_xxDtUeFq42HSafAZQI3kl9aMH/view)**<br />
+**[Group 2 video](https://drive.google.com/file/d/1UCAE4fauoWvPF9V5rZqxe_A2c8R38lUz/view)**<br />
 
 # Homework
 

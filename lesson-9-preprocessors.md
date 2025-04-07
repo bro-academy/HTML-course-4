@@ -31,6 +31,52 @@
 💛 **Mixins are used where appropriate** <br />
 💛 **No magic numbers (all values are explained or reusable)** <br />
 
+# Demos 
+
+## Mixins 
+
+🟢 [SCSS Mixin Button Variations (CodePen by glitchworker)](https://codepen.io/glitchworker/pen/OMGqKG?editors=1100):  
+A neat example of using mixins to create different button styles with minimal code repetition.
+
+🟢 [Responsive Typography Mixin (CodePen by Reissue1125)](https://codepen.io/Reissue1125/pen/ZqzOJK?editors=1100):  
+Shows how to build a mixin for fluid, responsive typography across breakpoints.
+
+🟢 [SASS Grid with Mixins (CodePen by irvingarmenta)](https://codepen.io/irvingarmenta/pen/zNyqBY?editors=1100):  
+Demonstrates how to create a flexible grid system using SCSS mixins.
+
+🟢 [Breakpoint Mixins (CodePen by striketype)](https://codepen.io/striketype/pen/RwVrNvQ?editors=1100):  
+A clean implementation of breakpoint-based mixins for responsive layout control.
+
+🟢 [Mixins for Card UI (CodePen by creativeo)](https://codepen.io/creativeo/pen/dyQrvOZ?editors=1100):  
+Uses SCSS mixins to define and reuse styles across different card components.
+
+🟢 [SCSS Mixins for Box Shadows (CodePen by xxx41)](https://codepen.io/xxx41/pen/BVbRbx?editors=1100):  
+Shows how to simplify repetitive shadow effects using mixins with parameters.
+
+🟢 [Media Query Mixins (CodePen by draft123)](https://codepen.io/draft123/pen/OJPwLwg?editors=1100):  
+Illustrates how to define and apply media query mixins for a cleaner responsive design workflow.
+
+🟢 [Button States with Mixins (CodePen by arch_ira)](https://codepen.io/arch_ira/pen/ZjELjx?editors=1100):  
+A practical example of styling button states (hover, active) using mixins.
+
+🟢 [SASS Utility Mixins (CodePen by bsx)](https://codepen.io/bsx/pen/vYKNWYN?editors=1100):  
+Includes utility-style mixins for margins, paddings, and more, promoting reusability.
+
+🟢 [Basic Mixin Usage (CodePen by lethrgio)](https://codepen.io/lethrgio/pen/NWWPZmB):  
+A simple intro to how mixins work in SCSS with examples for text styles.
+
+🟢 [Grid System with Mixin Looping (CodePen by nguyenthanhdong)](https://codepen.io/nguyenthanhdong/pen/YzVLPBB?editors=1100):  
+Combines `@for` loop and mixins to generate grid classes automatically.
+
+🟢 [Reusable Button Styles with Mixins (CodePen by marek-coder-ui)](https://codepen.io/marek-coder-ui/pen/LYBZZMO?editors=1100):  
+Mixins are used here to define consistent button styles with different color schemes.
+
+🟢 [SCSS Mixins for Theme Variables (CodePen by ylaana)](https://codepen.io/ylaana/pen/gOzqVBO?editors=1100):  
+Demonstrates using mixins together with variables to manage theming and color logic.
+
+🟢 [Styled Inputs with Mixins (CodePen by Hasan G. KÜSEL)](https://codepen.io/Hasan-G-KSEL/pen/ExGZZVg?editors=1100):  
+Applies mixins to inputs and form fields for consistent spacing and borders.
+
 # Additional Materials
 
 ## Courses 
