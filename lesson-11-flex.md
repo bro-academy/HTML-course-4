@@ -3,22 +3,22 @@
 **[Presentation](presentations/presentation-11-flex.pdf)**<br />
 **[Manual](manuals/manual-11-flex.pdf)**<br /> 
 
-<!-- **Part 1:** <br />
-**[Group 1 video]()**<br />
-**[Group 2 video]()**<br />
+**Part 1:** <br />
+**[Group 1 video](https://drive.google.com/file/d/1lERTL7lKzP0MnS9sblLNfSnK4vwkk5_p/view?usp=sharing)**<br />
+**[Group 2 video](https://drive.google.com/file/d/1gKB6UQ56fuyR3ihTWynlp7uuA3iCo-WH/view?usp=sharing)**<br />
 
 **Part 2:** <br />
-**[Group 1 video]()**<br />
-**[Group 2 video]()**<br /> -->
+**[Group 1 video](https://drive.google.com/file/d/14RRjRcnwybeottfw3BBzLoKMHHC_RnWK/view?usp=sharing)**<br />
+**[Group 2 video](https://drive.google.com/file/d/1RcQL-3pZKYMWqAeWn2QxBKnaNI4awgUr/view?usp=sharing)**<br />
 
 # Homework
 
-1. Use positioning properties where necessary
-   1.1. Fix header 
-   1.2. Card labels 
-   1.3. Sticky sidebar in catalog and blog page
+1. Use positioning properties where necessary<br />
+   1.1. Fix header <br />
+   1.2. Card labels <br />
+   1.3. Sticky sidebar in catalog and blog page <br />
 
-2. **Create a page layout using Flexbox.**:
+2. **Create a page layout using Flexbox.**:<br />
    2.1. Homepage
       - Header 
       - Banner 
@@ -91,21 +91,21 @@ To reinforce the concepts covered in class, choose one of the following courses 
 
 🟢 **[Sticky](https://codepen.io/michellebarker/pen/rNMZdXj?editors=1100)**: Demonstration of using the CSS `sticky` property for fixed positioning of elements.
 
-**[Using CSS Inset Property to Cover an Element](https://codepen.io/michellebarker/pen/WNGwPGR?editors=1100)**: Using the `inset` property for absolute positioning of an element on all sides.
-
 🟢 **[Full-Height Sticky Element](https://codepen.io/michellebarker/pen/QWjKvWr?editors=1100)**: Creating an element of full height that becomes "sticky" when scrolling.
 
 🟢 **[Sticky](https://codepen.io/michellebarker/pen/ExPmbOw)**: Another example of using `sticky` to attach elements during scrolling.
 
-## Flex 
+**[Using CSS Inset Property to Cover an Element](https://codepen.io/michellebarker/pen/WNGwPGR?editors=1100)**: Using the `inset` property for absolute positioning of an element on all sides.
 
-**[Aspect Ratio and Grid/Flex Alignment](https://codepen.io/michellebarker/pen/YzEZzeM?editors=1100)**: An example of using aspect ratio and alignment in Grid and Flexbox.
+## Flex 
 
 🟢 **[Buttons](https://codepen.io/michellebarker/pen/NWGgoQb?editors=1100)**: Various button styles implemented with CSS.
 
 🟢 **[Flexbox Navigation](https://codepen.io/michellebarker/pen/bzvNmL)**: A navigation menu created using Flexbox.
 
 🟢 **[Align-Self](https://codepen.io/team/css-tricks/pen/GBMZKR)**: An example of using `align-self` in a Flexbox layout.
+
+**[Aspect Ratio and Grid/Flex Alignment](https://codepen.io/michellebarker/pen/YzEZzeM?editors=1100)**: An example of using aspect ratio and alignment in Grid and Flexbox.
 
 ## CSS columns
 
@@ -145,9 +145,9 @@ To reinforce the concepts covered in class, choose one of the following courses 
 
 ## Positioning
 
-[About the Position Property in CSS](https://css-tricks.com/video-screencasts/198-about-the-position-property/): This CSS-Tricks article with video explains the different ways to use the `position` property in CSS, which is fundamental for understanding page layout. Basic concepts and examples of each type of positioning are discussed, making this material valuable for developers at all levels.
-
 🟢 [Learning CSS Positioning](https://ishadeed.com/article/learn-css-positioning): Sharid Ishad shares his knowledge on CSS positioning, providing readers with a deep analysis and understanding of how different `position` properties affect the mutual arrangement of elements. The article is filled with visual examples that help clarify complex aspects of layout.
+
+[About the Position Property in CSS](https://css-tricks.com/video-screencasts/198-about-the-position-property/): This CSS-Tricks article with video explains the different ways to use the `position` property in CSS, which is fundamental for understanding page layout. Basic concepts and examples of each type of positioning are discussed, making this material valuable for developers at all levels.
 
 [Complete Guide to CSS Positioning](https://webdesign.tutsplus.com/the-complete-guide-to-css-positioning--CRS-200483c): A comprehensive video guide from TutsPlus covering all aspects of CSS positioning. The article contains step-by-step instructions and tips on effective use of the `position` property, making it an essential resource for anyone looking to improve their web development skills.
 
@@ -246,18 +246,17 @@ To reinforce the concepts covered in class, choose one of the following courses 
 **[Flexbox Layout Generator](https://layout.bradwoods.io/)**: A layout generator providing a quick and convenient way to create layouts using Flexbox.
 
 ## Float
-
-**[CSS float](https://developer.mozilla.org/en-US/docs/Web/CSS/float)**: The official MDN documentation provides a comprehensive explanation of the `float` property, its features, and examples of use for creating layouts.
-
 <!-- **[CSS Float Property](https://www.tutorialspoint.com/css/css_float_property.htm)**: A tutorial on Tutorials Point that details how the `float` property can be used to manage the layout of elements on the page. -->
 
 <!-- **[In Search of the Perfect Float](https://www.smashingmagazine.com/2009/10/the-mystery-of-css-float-property/)**: An article on Smashing Magazine explores the complexities and technical details of the `float` property in CSS, offering a deep analysis of its behavior in different situations. -->
 
 🟢 **[CSS Float](https://css-tricks.com/all-about-floats/)**: An extensive guide on CSS Tricks that examines many aspects of the `float` property, including its impact on elements and the overall page structure.
 
-**[All About Floats](https://css-tricks.com/video-screencasts/42-all-about-floats-screencast/)**: A video tutorial explaining the main concepts and techniques for working with the `float` property to organize content on the page.
-
 🟢 **[Media Object Float Issues](https://www.smashingmagazine.com/2023/05/media-object-float-issues-css-block-formatting-contexts/)**: This article on Smashing Magazine describes how the `float` property interacts with block formatting contexts in CSS, causing common problems and how to solve them.
+
+**[CSS float](https://developer.mozilla.org/en-US/docs/Web/CSS/float)**: The official MDN documentation provides a comprehensive explanation of the `float` property, its features, and examples of use for creating layouts.
+
+**[All About Floats](https://css-tricks.com/video-screencasts/42-all-about-floats-screencast/)**: A video tutorial explaining the main concepts and techniques for working with the `float` property to organize content on the page.
 
 ### Clear
 
