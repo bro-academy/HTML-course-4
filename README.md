@@ -25,9 +25,8 @@
 [Lesson 9. Preprocessors](lesson-9-preprocessors.md) <br />
 [Lesson 10. Forms](lesson-10-forms.md) <br />
 [Lesson 11. Flexbox and position](lesson-11-flex.md) <br />
+[Lesson 12. Grid layout](lesson-12-grid.md) <br />
 
-Lesson 12. Grid layout
-<!-- [Lesson 12. Grid layout](lesson-8.md) <br /> -->
 Lesson 13. Adaptive layouts
 <!-- [Lesson 13. Adaptive layout] -->
 Lesson 14. Vector graphics
