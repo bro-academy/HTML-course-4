@@ -4,6 +4,8 @@ https://ishadeed.com/article/the-gap/
 https://ishadeed.com/article/css-grid-area/ 
 https://ishadeed.com/article/display-contents/
 https://ishadeed.com/article/css-grid-masonry/
+https://ishadeed.com/article/grid-layout-flexbox-components/
+https://ishadeed.com/article/item-flow/
  -->
 # Lesson 12. Grid
 
@@ -12,11 +14,11 @@ https://ishadeed.com/article/css-grid-masonry/
 
 **Part 1:** <br />
 **[Group 1 video](https://drive.google.com/file/d/1YunvZoedKImrRzhbXANqscbencvtWd2e/view)**<br />
-<!-- **[Group 2 video]()**<br />
+**[Group 2 video](https://drive.google.com/file/d/1iWzW_sXnQ884VZcKQtBsHPSaA2rS25OE/view?usp=sharing)**<br />
 
 **Part 2:** <br />
-**[Group 1 video]()**<br />
-**[Group 2 video]()**<br /> -->
+**Group 1 video - Missed**<br />
+**[Group 2 video](https://drive.google.com/file/d/1iWzW_sXnQ884VZcKQtBsHPSaA2rS25OE/view)**<br /> 
 
 # Homework  
 
@@ -51,6 +53,30 @@ This will allow you to quickly get into the technology.
 Optional: Practice creating grids. Start with simple small examples. Rewrite the same examples you did with flex into grids. Take the [page](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-product-landing-page-project/build-a-product-landing-page) as the final example.  
 
 ## Demos 
+
+### Demos from lessons
+
+💚 **[Flex vs. Grid](https://codesandbox.io/p/sandbox/flex-grid-p8x4z4)**: A side-by-side comparison of Flexbox and CSS Grid use cases.
+
+💚 **[Subgrid](https://codesandbox.io/p/sandbox/subgrid-wtk37t)**: A hands-on demo of the powerful `subgrid` feature in CSS Grid.
+
+💚 **[Masonry Layout](https://codesandbox.io/p/sandbox/grid-masonry-8vwr95)**: Simulating a masonry layout using CSS Grid techniques.
+
+💚 **[Grid Practice 1](https://codesandbox.io/p/sandbox/grid-practice-1-lvss8x)**: A beginner-friendly grid layout exercise.
+
+💚 **[Grid Practice 2](https://codesandbox.io/p/sandbox/gid-practice-2-15th-vfzs83)**: A second practice task focusing on more complex layouts.
+
+💚 **[Grid Practice 3 – Cat Layout](https://codesandbox.io/p/sandbox/grid-practice-3-cat-yrlhf7)**: Create a playful cat-themed layout using CSS Grid.
+
+💚 **[Grid Practice 4](https://codesandbox.io/p/sandbox/grid-practice-4-qgxs9p)**: Practice combining named areas and line-based placement.
+
+💚 **[Grid Practice 5](https://codesandbox.io/p/sandbox/grid-practice-5-58rqq7)**: Challenge yourself with a more advanced layout structure.
+
+💚 **[Binabox Grid](https://codesandbox.io/p/sandbox/binabox-grid-forked-p6xwrq)**: A creative, interactive grid puzzle to practice layout skills.
+
+💚 **[Grid Calendar](https://codesandbox.io/p/sandbox/grid-calendar-5kq6mw)**: Build a functional calendar layout using CSS Grid.
+
+---
 
 🟢 **[CSS Grid Layout by Example](https://gridbyexample.com/examples/)**: A cheat sheet with many examples of layouts created using CSS Grid, great for learning and inspiration.
 
