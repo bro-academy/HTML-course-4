@@ -13,7 +13,6 @@
 [Manuals](manuals)  <br />
 [Criteria for HTML Course Quality](criteria.md)  <br />
 
-<!-- Lesson 1. Intro -->
 [Lesson 1. Intro](lesson-1-intro.md)  <br />
 [Lesson 2. HTML](lesson-2-html.md)  <br />
 [Lesson 3. GIT](lesson-3-git.md) <br />
@@ -26,9 +25,8 @@
 [Lesson 10. Forms](lesson-10-forms.md) <br />
 [Lesson 11. Flexbox and position](lesson-11-flex.md) <br />
 [Lesson 12. Grid layout](lesson-12-grid.md) <br />
+[Lesson 13. Adaptive layout](lesson-13-adaptive.md) <br />
 
-Lesson 13. Adaptive layouts
-<!-- [Lesson 13. Adaptive layout] -->
 Lesson 14. Vector graphics
 <!-- [Lesson 14. Vector graphics] -->
 Lesson 15. CSS++

@@ -1,7 +1,6 @@
 # Lesson 13. Adaptive layouts
 
-**[Presentation 1](presentations/presentation-13-adaptive.pdf)**<br />
-<!-- **[Presentation 2](presentations/presentation-.pdf)**<br /> -->
+**[Presentation](presentations/presentation-13-adaptive.pdf)**<br />
 <!-- **[Manual](manuals/manual-13-adaptive.pdf)**<br />  -->
 
 <!-- **Part 1:** <br /> 
@@ -15,13 +14,13 @@
 # Homework
 
 Implement a responsive layout for all pages:
-1. Homework Homepage
+1. Homework Homepage<br /> 
 Enable horizontal scroll for blocks:
 - catalog items
 - blog posts
 - team members
 Ensure the burger menu open and work correctly on mobile devices.
-2. Homework Catalog page
+2. Homework Catalog page<br /> 
 Ensure the filter panel open and work correctly on mobile devices.
 3. Homework Blog post page
 4. Homework Contact page
