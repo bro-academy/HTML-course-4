@@ -68,6 +68,8 @@ All courses use console Git, but they are good for practicing basic commands and
 
 **[Learn Git & GitHub on Codecademy](https://www.codecademy.com/learn/learn-git?utm_source=ccblog&utm_medium=ccblog&utm_campaign=docs_june_2023&utm_content=docs_course_module)** and **[Learn GitHub Introduction](https://www.codecademy.com/learn/learn-github-introduction)** - Courses from Codecademy offering a comprehensive introduction to Git and GitHub.
 
+**[Learn Git: Branching and Collaboration (Codecademy)](https://www.codecademy.com/learn/learn-git-branching-and-collaboration)**: A course on using Git for branching and collaboration, key aspects of modern software development.
+
 ### Video courses
 
 **[Introduction to Git and GitHub on DevDojo](https://devdojo.com/course/introduction-to-git-and-github)** - A course for beginners covering the basics of Git and GitHub.

@@ -3,13 +3,14 @@
 **[Presentation](presentations/presentation-13-adaptive.pdf)**<br />
 <!-- **[Manual](manuals/manual-13-adaptive.pdf)**<br />  -->
 
-<!-- **Part 1:** <br /> 
-**[Group 1 video]()**<br />
-**[Group 2 video]()**<br />
+ **Part 1:** <br /> 
+**[Group 1 video](https://drive.google.com/file/d/1YCgZ9oogQwgDSR07JFubV1wlWHrSj7D5/view?usp=sharing)**<br />
+**[Group 2 video](https://drive.google.com/file/d/1Lc26X9oA_IzsF-hGV8CT8mNwrWBNTgly/view)**<br />
+
 
 **Part 2:** <br />
-**[Group 1 video]()**<br />
-**[Group 2 video]()**<br />  -->
+**[Group 1 video](https://drive.google.com/file/d/1xuz1_2TpPeH34kVjTQmSS7YrAyPvaSG8/view)**<br />
+**[Group 2 video](https://drive.google.com/file/d/1tKiK44HR3uz8oXE55cI9Xs5gh62TpqcK/view)**<br /> 
 
 # Homework
 

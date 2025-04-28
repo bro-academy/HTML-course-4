@@ -118,6 +118,8 @@ Learn how to organize your SCSS by splitting your styles into partial files and 
 **[Extend One Set of CSS Styles to Another Element (freeCodeCamp)](https://www.freecodecamp.org/learn/front-end-development-libraries/sass/extend-one-set-of-css-styles-to-another-element)**:  
 Discover how to use `@extend` to share and reuse styles between selectors without repeating the same code.
 
+[Learn CSS: Variables and Functions](https://www.codecademy.com/learn/learn-css-variables-and-functions): An online course on learning CSS variables and functions to create more dynamic and adaptive styles.
+
 ## 🧱 **CSS Preprocessors (Overview & Docs)**
 
 **[What are CSS Preprocessors? (Raygun)](https://raygun.com/blog/css-preprocessors-examples/)**  
@@ -171,6 +173,36 @@ Examples of what’s possible with the latest conditional CSS syntax.
 
 **[CSS Custom Properties vs SCSS Variables (Frontendly)](https://frontendly.io/blog/css-custom-properties/)**  
 Great breakdown comparing runtime (CSS) vs compile-time (SCSS) variables.
+
+🟢 [7 Uses for CSS Custom Properties](https://css-irl.info/7-uses-for-css-custom-properties/): Highlights seven practical ways to use CSS custom properties in development.
+
+[Relative Grid Items with CSS Variables](https://css-irl.info/relative-grid-tracks/): Explores the use of CSS variables to create adaptive grid elements.
+
+[Super-Powered Grid Components with CSS Custom Properties](https://css-tricks.com/super-power-grid-components-with-css-custom-properties/): Shows how to create powerful grid components using CSS variables.
+
+🟢 [Practical Tips for Working with CSS Variables](https://css-irl.info/practical-tips-css-variables/): Offers practical tips for working with CSS variables.
+
+[Super-Powered Layouts with CSS Variables + CSS Grid](https://css-irl.info/super-powered-layouts/): Combining CSS variables and grid to create dynamic layouts.
+
+🟢 [Global and Component Style Settings with CSS Variables](https://www.sarasoueidan.com/blog/style-settings-with-css-variables/): A guide to using CSS variables for setting styles at both global and component levels.
+
+🟢 [A Complete Guide to Custom Properties](https://css-tricks.com/a-complete-guide-to-custom-properties/): A comprehensive guide to using custom properties in CSS.
+
+🟢 [A User's Guide to CSS Variables](https://increment.com/frontend/a-users-guide-to-css-variables/): A detailed user guide on CSS variables, their features, and ways to apply them.
+
+[Proportional Resizing with CSS Variables](https://ishadeed.com/snippet/proportional-resizing-css-variables): Using CSS variables for proportional resizing of elements.
+
+🟢 [Practical CSS Variables](https://ishadeed.com/article/practical-css-variables): A practical approach to using CSS variables in web development.
+
+<!-- [Start Using CSS Custom Properties](https://www.smashingmagazine.com/2017/04/start-using-css-custom-properties/): An introduction to using custom properties in CSS and their benefits. -->
+
+<!-- [CSS Custom Properties: A Strategy Guide](https://www.smashingmagazine.com/2018/05/css-custom-properties-strategy-guide/): A strategic guide to applying CSS variables in projects. -->
+
+🟢 [Declaring CSS Variables](https://www.samanthaming.com/tidbits/4-declaring-css-variables/): Explains how to declare and use CSS variables.
+
+[A Complete Guide to CSS Variables](https://webdesign.tutsplus.com/the-complete-guide-to-using-css-variables--CRS-201043c): A complete guide to using variables in CSS.
+
+[CSS Vars 101](https://ishadeed.com/article/css-vars-101): Basics of working with CSS variables for beginners.
 
 ## 🧬 **CSS Nesting**
 

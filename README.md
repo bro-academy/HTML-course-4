@@ -26,9 +26,8 @@
 [Lesson 11. Flexbox and position](lesson-11-flex.md) <br />
 [Lesson 12. Grid layout](lesson-12-grid.md) <br />
 [Lesson 13. Adaptive layout](lesson-13-adaptive.md) <br />
+[Lesson 14. Vector graphics](lesson-14-svg.md) <br />
 
-Lesson 14. Vector graphics
-<!-- [Lesson 14. Vector graphics] -->
 Lesson 15. CSS++
 <!-- [Lesson 15. CSS++](lesson-9.md) <br /> -->
 Lesson 16. Animations
