@@ -1,3 +1,11 @@
+<!-- mobile first:
+https://ishadeed.com/article/the-state-of-mobile-first-and-desktop-first/
+https://doka.guide/css/mobile-first-vs-desktop-first/
+https://css-tricks.com/how-to-develop-and-test-a-mobile-first-design-in-2021/
+https://www.browserstack.com/guide/how-to-implement-mobile-first-design
+https://alistapart.com/article/mobile-first-css-is-it-time-for-a-rethink/
+ -->
+
 # Lesson 13. Adaptive layouts
 
 **[Presentation](presentations/presentation-13-adaptive.pdf)**<br />

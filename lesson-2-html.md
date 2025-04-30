@@ -88,7 +88,7 @@ From the headings, a table of contents can be formed like in a book. <br />
 Heading levels go in order from top to bottom and are not skipped. <br />
 Check it on https://yoksel.github.io/html-tree. 
 
-**💛 The logo on internal pages should lead to the home page. **<br />
+**💛 The logo on internal pages should lead to the home page.**<br />
 On the home page, the logo should not lead to any page.
 
 **💛 External links should have the attribute target="_blank".**
@@ -97,9 +97,9 @@ On the home page, the logo should not lead to any page.
 The `<meta type=”description”>` must be unique and less than 150 characters. <br />
 It appears in search engines below the title.
 
-**💚 Favicon icons display correctly. <br />**
+<!-- **💚 Favicon icons display correctly. <br />**
 Format – ico, png, svg. <br />
-Sizes – 16х16, 32х32, 48х48, 64х64.
+Sizes – 16х16, 32х32, 48х48, 64х64. -->
 
 ## Additional homework 
 
