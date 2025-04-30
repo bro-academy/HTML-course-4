@@ -7,10 +7,10 @@
 **Part 1:** <br />
 **[Group 1 video](https://drive.google.com/file/d/1b77Ye3Dp6DfRdDHp3fJjax4U0iB7K_PN/view?usp=sharing)**<br />
 **[Group 2 video](https://drive.google.com/file/d/1YfdfzHqi8UL2Tw1LL4SCSTOWRj4n4IoY/view?usp=sharing)**<br />
-<!-- 
+
 **Part 2:** <br />
-**[Group 1 video]()**<br />
-**[Group 2 video]()**<br /> -->
+**[Group 1 video](https://drive.google.com/file/d/1f3MwrpqZpuwj_c0DochkIcnaZdT9CAVY/view?usp=sharing)**<br />
+**[Group 2 video](https://drive.google.com/file/d/1kmlzLsFs6evaeaR4Cw8cT1W5TcEGYE_s/view?usp=sharing)**<br />
 
 # Homework
 

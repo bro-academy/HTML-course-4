@@ -7,11 +7,11 @@
 
 **Part 1:** <br />
 **[Group 1 video](https://drive.google.com/file/d/1pHU2prcIHZVqJ0NBa405qOoPco_xPeW_/view?usp=sharing)** (sound missed) <br />
-<!-- **[Group 2 video]()**<br />
+**[Group 2 video](https://drive.google.com/file/d/1FM72DC5gEDVb3dLYJ67oBm-gH-oBJ2FO/view?usp=sharing)**<br />
 
 **Part 2:** <br />
-**[Group 1 video]()**<br />
-**[Group 2 video]()**<br /> -->
+**[Group 1 video](https://drive.google.com/file/d/1DJerVZrO5yiPaemoOUn93esYo7Q3CSTI/view?usp=sharing)**<br />
+**[Group 2 video](https://drive.google.com/file/d/1zXufn9kqeZdeo3MJ4FwfN-ov8wlLFfuT/view?usp=sharing)**<br />
 
 # Homework
 
