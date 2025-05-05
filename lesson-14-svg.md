@@ -1,8 +1,9 @@
 # Lesson 14. SVG and sprites
 
 **[Presentation 1](presentations/presentation-14-svg.pdf)**<br />
-<!-- **[Presentation 2](presentations/presentation-14-sprites.pdf)**<br /> -->
-<!-- **[Manual](manuals/manual-14-svg.pdf)**<br />  -->
+**[Presentation 2](presentations/presentation-14-sprites.pdf)**<br />
+**[Manual](manuals/manual-14-svg.pdf)**<br /> 
+
 **Part 1:** <br /> 
 **[Group 1 video](https://drive.google.com/file/d/1jxiYOAG3klDwh8MtMc4GEZa-TlE1uKsn/view)**<br />
 **[Group 2 video](https://drive.google.com/file/d/1xYyAS1WtwAOpdhWIZvahgy1xHIAGRgBZ/view)**<br />
