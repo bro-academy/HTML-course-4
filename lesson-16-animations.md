@@ -1,11 +1,11 @@
 # Lesson 16. Animations
 
-<!-- **[Presentation](presentations/presentation-16-animation.pdf)**<br /> -->
-<!-- **[Manual](manuals/manual-16-animation.pdf)**<br />  -->
+**[Presentation](presentations/presentation-16-animation.pdf)**<br />
+**[Manual](manuals/manual-16-animation.pdf)**<br /> 
 
-<!-- **Part 1:** <br />
-**[Group 1 video]()**<br />
-**[Group 2 video]()**<br />
+**Part 1:** <br />
+**[Group 1 video](https://drive.google.com/file/d/1ZMCNSE_rxlVP-9aIquA-oZ5jcfpgKnqm/view?usp=sharing)**<br />
+<!-- **[Group 2 video]()**<br />
 
 **Part 2:** <br />
 **[Group 1 video]()**<br />
@@ -21,23 +21,7 @@ Add animations using the animate.css library. <br />
 or <br />
 Write animations independently using @keyframes.
 
-## Additional courses 
-   
-**[CSS Animation Course](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-animation-by-building-a-ferris-wheel/step-1)**
-
-**[CSS Transformations Course](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-transforms-by-building-a-penguin/step-1)**
-
-**[Practice Animations and Transformations](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-personal-portfolio-webpage-project/build-a-personal-portfolio-webpage)**
-
-**[Practical Web Animation Video](https://webdesign.tutsplus.com/practical-web-animation--CRS-200488c)**: A practical course on web animation teaching developers how to create effective and aesthetically pleasing animations for websites. This course includes many practical examples and projects.
-
-**[Learn CSS: Transitions and Animations](https://www.codecademy.com/learn/learn-css-transitions-and-animations)**: A course from Codecademy dedicated to CSS transitions and animations. It provides students with knowledge on how to use CSS to create smooth transitions and dynamic animations.
-
-**[Learn Intermediate CSS](https://www.codecademy.com/learn/learn-intermediate-css)**: This course is designed for those who already have basic CSS knowledge and want to expand their skills to a more advanced level, including more complex aspects of CSS such as animation and layout.
-
-**[Practical Animation Courses](https://webdesign.tutsplus.com/practical-animation-courses--cms-31970a)**: A series of courses from TutsPlus dedicated to the practical application of animations in web design. The courses cover a wide range of topics, from basic animations to complex interactive elements.
-
-## Demo
+# Demo
 
 <!-- **[Pixel Art Studio](https://codepen.io/michellebarker/pen/WNKbQOO)**: An example on CodePen demonstrating the creation of pixel art using CSS. A great way to learn how to create visual effects and game elements directly in the browser. -->
 
@@ -49,13 +33,13 @@ Write animations independently using @keyframes.
 
 **[6 Handy CSS3 Animation Projects Video](https://webdesign.tutsplus.com/6-handy-css3-animation-projects--CRS-200837c)**: A set of projects for learning and applying various CSS3 animations, from simple effects to more complex interactive elements.
 
-**[Creating a Masked Background Effect with CSS](https://webdesign.tutsplus.com/create-a-masked-background-effect-with-css--cms-21112t)**: A tutorial demonstrating how to create a masked background effect that can add unique visual elements to your web design.
+<!-- **[Creating a Masked Background Effect with CSS](https://webdesign.tutsplus.com/create-a-masked-background-effect-with-css--cms-21112t)**: A tutorial demonstrating how to create a masked background effect that can add unique visual elements to your web design. -->
 
-🟢 **[Magic Flip Cards: Solving the Size Problem](https://www.smashingmagazine.com/2020/02/magic-flip-cards-common-sizing-problem)**: Smashing Magazine explains how to solve the size problem when creating flipping cards using CSS.
+**[Magic Flip Cards: Solving the Size Problem](https://www.smashingmagazine.com/2020/02/magic-flip-cards-common-sizing-problem)**: Smashing Magazine explains how to solve the size problem when creating flipping cards using CSS.
 
 **[15 Inspiring Examples of CSS Animation on CodePen](https://webdesign.tutsplus.com/15-inspiring-examples-of-css-animation-on-codepen--cms-23937a)**: This article on Tutsplus presents a selection of 15 examples demonstrating creative use of CSS animations. The examples include various techniques and effects that can be studied and used in your projects.
 
-🟢 **[10 Examples of Animation on CodePen You Can Learn From](https://webdesign.tutsplus.com/10-examples-of-animation-on-codepen-you-can-learn-from--cms-28244a)**: Another article from Tutsplus, offering ten carefully selected examples that show various techniques for creating animations using CSS.
+**[10 Examples of Animation on CodePen You Can Learn From](https://webdesign.tutsplus.com/10-examples-of-animation-on-codepen-you-can-learn-from--cms-28244a)**: Another article from Tutsplus, offering ten carefully selected examples that show various techniques for creating animations using CSS.
 
 **[Pure CSS Animation: Inspiration on CodePen](https://webdesign.tutsplus.com/pure-css-animation-inspiration-on-codepen--cms-30875a)**: A selection of inspiring examples of pure CSS animation available on CodePen. This is a great resource for those looking for new ideas without using JavaScript.
 
@@ -71,13 +55,13 @@ Examples on CodePen by Michelle Barker:
 
 **[Animated Underlines with Pseudo Elements](https://codepen.io/michellebarker/pen/MWJajOb)** and other projects demonstrating various ways to use CSS for creating animated and interactive effects.
 
-🟢 **[Offset-path with offset-rotate](https://codepen.io/michellebarker/details/bGNamvP)**: Demonstrating the use of `offset-path` with `offset-rotate` to create complex animation trajectories.
+**[Offset-path with offset-rotate](https://codepen.io/michellebarker/details/bGNamvP)**: Demonstrating the use of `offset-path` with `offset-rotate` to create complex animation trajectories.
 
-🟢 **[Simple offset-path animation](https://codepen.io/michellebarker/pen/gOboBxB?editors=1100)**: A simple animation using `offset-path` to move an element along a specified trajectory.
+**[Simple offset-path animation](https://codepen.io/michellebarker/pen/gOboBxB?editors=1100)**: A simple animation using `offset-path` to move an element along a specified trajectory.
 
 **[SVG masking using SVG text element](https://codepen.io/michellebarker/pen/XWbpqaJ?editors=1100)**: Using masking in SVG with the text element to create effects where the text remains selectable.
 
-🟢 **[Slide up hover effect CSS-only](https://codepen.io/michellebarker/pen/pojmdLq)**: A CSS animation that activates on hover and lifts the element upwards.
+**[Slide up hover effect CSS-only](https://codepen.io/michellebarker/pen/pojmdLq)**: A CSS animation that activates on hover and lifts the element upwards.
 
 **[Grid hover effect](https://codepen.io/michellebarker/pen/ZEbgzwX)** and **[Grid hover effect with subgrid](https://codepen.io/michellebarker/pen/gOPwmVB)**: Hover effects using CSS Grid and Subgrid to change the visual representation of grid elements on hover.
 
@@ -152,11 +136,11 @@ __________
 
 **[CSS 3D Box with Mock Shadow](https://codepen.io/weareindi/pen/oLOQPz)**: A three-dimensional box with a shadow effect, illustrating the possibilities of creating depth and realism with shadows in CSS.
 
-🟢 **[3D Cube with CSS](https://codepen.io/carloscabral/pen/VwmxqB)**: A three-dimensional cube created using CSS, demonstrating the basic principles of working with 3D transformations in web development.
+**[3D Cube with CSS](https://codepen.io/carloscabral/pen/VwmxqB)**: A three-dimensional cube created using CSS, demonstrating the basic principles of working with 3D transformations in web development.
 
-🟢 **[CSS Text Loading](https://codepen.io/nxworld/details/zwGpXr)**: A text loading animation showing how CSS can be used to create loading effects.
+**[CSS Text Loading](https://codepen.io/nxworld/details/zwGpXr)**: A text loading animation showing how CSS can be used to create loading effects.
 
-🟢 **[Flip Card with JS](https://codepen.io/wochap/details/BzvOep)**: A flip card effect using JavaScript and CSS, popular for creating interactive user interfaces.
+**[Flip Card with JS](https://codepen.io/wochap/details/BzvOep)**: A flip card effect using JavaScript and CSS, popular for creating interactive user interfaces.
 
 **[Rotating Grid Layout](https://codepen.io/mandymichael/pen/arobNa)** 
 and **[3D Textbox](https://codepen.io/jouanmarcel/details/Powbrgq)**: Examples of using CSS to create rotating grids and three-dimensional text boxes, adding unique visual effects to pages.
@@ -168,7 +152,7 @@ __________
 
 <!-- **[Building Split Text Animations](https://web.dev/articles/building/split-text-animations?hl=en)**: A tutorial on creating split text animations using CSS and JavaScript, allowing you to animate individual words and letters to create dynamic and engaging effects. -->
 
-🟢 **[Interactive Words & Letters](https://web.dev/patterns/animation/)**: A series of tutorials, including interactive words and letters that respond to user interaction. These resources show how to make text more captivating and engaging.
+**[Interactive Words & Letters](https://web.dev/patterns/animation/)**: A series of tutorials, including interactive words and letters that respond to user interaction. These resources show how to make text more captivating and engaging.
 
 <!-- **[Scroll Progress Animations in CSS](https://developer.mozilla.org/en-US/blog/scroll-progress-animations-in-css/)**: An article on MDN explaining how to create animations that react to page scroll progress, adding visual feedback to users' actions on the page. -->
 
@@ -219,9 +203,25 @@ and **[Learning about CSS perspective](https://codepen.io/michellebarker/pen/KKz
 
 <!-- **[Quick Tip: Negative Animation Delay](https://css-irl.info/quick-tip-negative-animation-delay/)**: An article explaining how to use negative delay in CSS animations to change the starting point of the animation, creating a more dynamic and interesting user interface. -->
 
+## Additional courses 
+   
+**[CSS Animation Course](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-animation-by-building-a-ferris-wheel/step-1)**
+
+**[CSS Transformations Course](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-transforms-by-building-a-penguin/step-1)**
+
+**[Practice Animations and Transformations](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-personal-portfolio-webpage-project/build-a-personal-portfolio-webpage)**
+
+**[Practical Web Animation Video](https://webdesign.tutsplus.com/practical-web-animation--CRS-200488c)**: A practical course on web animation teaching developers how to create effective and aesthetically pleasing animations for websites. This course includes many practical examples and projects.
+
+**[Learn CSS: Transitions and Animations](https://www.codecademy.com/learn/learn-css-transitions-and-animations)**: A course from Codecademy dedicated to CSS transitions and animations. It provides students with knowledge on how to use CSS to create smooth transitions and dynamic animations.
+
+**[Learn Intermediate CSS](https://www.codecademy.com/learn/learn-intermediate-css)**: This course is designed for those who already have basic CSS knowledge and want to expand their skills to a more advanced level, including more complex aspects of CSS such as animation and layout.
+
+**[Practical Animation Courses](https://webdesign.tutsplus.com/practical-animation-courses--cms-31970a)**: A series of courses from TutsPlus dedicated to the practical application of animations in web design. The courses cover a wide range of topics, from basic animations to complex interactive elements.
+
 # Additional Materials
 
-**[Masking One Element with Another](https://css-irl.info/masking-one-element-with-another/)**: A tutorial showing how to use CSS to mask elements using other elements, opening new possibilities for creative design.
+<!-- **[Masking One Element with Another](https://css-irl.info/masking-one-element-with-another/)**: A tutorial showing how to use CSS to mask elements using other elements, opening new possibilities for creative design. -->
 
 **[Creating Custom Easing Effects in CSS Animations Using the Linear() Function](https://developer.mozilla.org/en-US/blog/custom-easing-in-css-with-linear/)**: A guide on creating custom easing functions in CSS animations using the `linear()` function.
 
@@ -245,7 +245,7 @@ and **[Learning about CSS perspective](https://codepen.io/michellebarker/pen/KKz
 
 **[Animating CSS Grid](https://css-irl.info/animating-css-grid/)**: Instructions for adding animations to CSS Grid layouts, making the page layout more dynamic and interactive.
 
-**[Solving a Tricky Layout Problem with CSS Grid](https://css-irl.info/solving-a-tricky-layout-problem/)**: An article discussing the use of CSS Grid to solve complex layout problems, demonstrating its flexibility and power.
+<!-- **[Solving a Tricky Layout Problem with CSS Grid](https://css-irl.info/solving-a-tricky-layout-problem/)**: An article discussing the use of CSS Grid to solve complex layout problems, demonstrating its flexibility and power. -->
 
 ## Transform
 

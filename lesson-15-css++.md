@@ -1,15 +1,15 @@
 # Lesson 15. CSS++
 
-<!-- **[Presentation](presentations/presentation-15-css-magic.pdf)**<br /> -->
-<!-- **[Manual](manuals/manual-15-css-magic.pdf)**<br />  -->
+**[Presentation](presentations/presentation-15-css++.pdf)**<br />
+**[Manual](manuals/manual-15-css++.pdf)**<br />
 
 <!-- **Part 1:** <br />
 **[Group 1 video]()**<br />
-**[Group 2 video]()**<br />
+**[Group 2 video](https://drive.google.com/file/d/1ar8IFLFnMRv2xXPaspd4WzAWxZfQAdAH/view?usp=sharing)**<br />
 
 **Part 2:** <br />
 **[Group 1 video]()**<br />
-**[Group 2 video]()**<br /> -->
+**[Group 2 video](https://drive.google.com/file/d/1ynyXaoi_7zxZOgfh240xdsV7NzaNUs0N/view?usp=sharing)**<br /> -->
 
 # Homework
 Achieve the highest level of accuracy with the design mockup:
