@@ -28,11 +28,8 @@
 [Lesson 13. Adaptive layout](lesson-13-adaptive.md) <br />
 [Lesson 14. Vector graphics](lesson-14-svg.md) <br />
 [Lesson 15. CSS++](lesson-15-css++.md) <br />
-
-Lesson 16. Animations
-<!-- [Lesson 16. Animations](lesson-10.md) <br /> -->
-Lesson 17. Pre final
-<!-- [Lesson 17. Pre final]() <br /> -->
+[Lesson 16. Animations](lesson-16-animations.md) <br />
+[Lesson 17. Pre final](pre-final.md) <br />
 
 Graduation :tada: :tada: :tada: <br />
 <!-- [Graduation] :tada: :tada: :tada: <br /> -->

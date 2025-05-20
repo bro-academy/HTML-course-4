@@ -10,8 +10,8 @@ When developing a website, there are many conditions that must be met to ensure 
 
 ## 1. General 
 
-**1.1 ❤️ Gulp is used as a build tool**  
-   The project is set up with **Gulp** for automation tasks.  
+**1.1 ❤️ Bundler is used as a build tool**  
+   The project is set up with any Bundler for automation tasks.  
 
 **1.2 ❤️ Public and node_modules folders should not be in the GitHub repository**  
    The `.gitignore` file is configured to exclude **automatically generated build files**.  
