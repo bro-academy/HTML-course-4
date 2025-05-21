@@ -96,9 +96,7 @@ When adding more text to elements: <br />
 
 **2.1 ❤️ The site should have a GitHub repository**  
 
-
 **2.2 ❤️ There's no system file like `.DS_Store` or `Thumbs.db` in the repository**  
-
 
 **2.3 ❤️ There are no commits in the target branch (usually `main`)**  
 
