@@ -302,7 +302,7 @@ SCSS files should be separated by responsibility:
 - `_variables.scss`, `_mixins.scss`, `_buttons.scss`, `_header.scss`, etc.  
 - Use `@use` in the main file.
 
-**8.3 ❤️ Custom properties or SCSS variables are used for colors and fonts**  
+**8.3 ❤️ Custom properties and/or SCSS variables are used for colors and fonts**  
 Define all color and font values as variables using SCSS or native CSS variables:  
 - SCSS example:  
   ```scss
